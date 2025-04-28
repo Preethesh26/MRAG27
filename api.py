@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import chromadb
 from sentence_transformers import SentenceTransformer
-
+from fastapi.staticfiles import StaticFiles
 # Initialize FastAPI app
 app = FastAPI()
 
@@ -15,6 +15,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# Serve the images folder
+app.mount("/images", StaticFiles(directory="images"), name="images")
 
 # Load embedding model
 model = SentenceTransformer('all-MiniLM-L6-v2')
