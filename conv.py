@@ -54,21 +54,31 @@ with open('D:/MRAG27/plants.json', 'r', encoding='utf-8') as f:
 # Load model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Prepare texts
+# Prepare texts and metadata
 texts = []
 metadatas = []
 for idx, plant in enumerate(plants_data):
-    combined_text = f"Plant: {plant.get('Plant Name', '')}. Uses: {plant.get('Uses', '')}. Cures: {plant.get('Cures', '')}."
+    # Create a detailed combined text for better embedding
+    combined_text = (
+        f"Plant Name: {plant.get('Plant Name', '')}. "
+        f"Scientific Name: {plant.get('Scientific Name', '')}. "
+        f"Healing Properties: {plant.get('Healing Properties', '')}. "
+        f"Uses: {plant.get('Uses', '')}. "
+        f"Description: {plant.get('Description', '')}. "
+        f"Preparation Method: {plant.get('Preparation Method', '')}. "
+        f"Side Effects: {plant.get('Side Effects', '')}. "
+        f"Geographic Availability: {plant.get('Geographic Availability', '')}."
+    )
     texts.append(combined_text)
     metadatas.append(plant)
 
-# Initialize Chroma Client (NEW Way)
-client = chromadb.PersistentClient(path="./chroma_db")  # ← Change here
+# Initialize Chroma Client
+client = chromadb.PersistentClient(path="./chroma_db")
 
 # Create or Get collection
 collection = client.get_or_create_collection(name="plants_collection")
 
-# Add to Chroma
+# Add documents to Chroma
 collection.add(
     documents=texts,
     metadatas=metadatas,
@@ -76,3 +86,4 @@ collection.add(
 )
 
 print("✅ Successfully added all plants to ChromaDB!")
+
