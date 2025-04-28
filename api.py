@@ -16,8 +16,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
-# Serve the images folder
+# Mount /images directory
 app.mount("/images", StaticFiles(directory="images"), name="images")
 
 # Load embedding model
@@ -31,10 +30,8 @@ collection = client.get_collection(name="plants_collection")
 class QueryRequest(BaseModel):
     query: str
 def search_in_chroma(query: str):
-    # Convert query into embedding
     query_embedding = model.encode([query]).tolist()
 
-    # Query the ChromaDB collection for results
     results = collection.query(
         query_embeddings=query_embedding,
         n_results=1
@@ -43,22 +40,22 @@ def search_in_chroma(query: str):
     documents = results['documents'][0]
     metadatas = results['metadatas'][0]
 
-    # Structure the results correctly
     return [
         {
-            "Plant Name": meta["Plant Name"],
-            "Scientific Name": meta["Scientific Name"],
-            "Healing Properties": meta["Healing Properties"],
-            "Uses": meta["Uses"],
+            "Plant Name": meta.get("Plant Name", "Unknown"),
+            "Scientific Name": meta.get("Scientific Name", "Unknown"),
+            "Healing Properties": meta.get("Healing Properties", "Not available"),
+            "Uses": meta.get("Uses", "Not available"),
             "Description": doc,
-            "Preparation Method": meta["Preparation Method"],
-            "Side Effects": meta["Side Effects"],
-            "Geographic Availability": meta["Geographic Availability"],
-            "Image": meta["Image"],  # Assuming metadata contains image URL
-            "Image Missing": meta.get("Image Missing", False)
+            "Preparation Method": meta.get("Preparation Method", "Not available"),
+            "Side Effects": meta.get("Side Effects", "Not available"),
+            "Geographic Availability": meta.get("Geographic Availability", "Unknown"),
+            "Image": meta.get("Image"),  # ✅ No need to modify
+            "Image Missing": meta.get("Image Missing", True)
         }
         for doc, meta in zip(documents, metadatas)
     ]
+
 # --- POST method
 @app.post("/search/")
 async def search_post(req: QueryRequest):
