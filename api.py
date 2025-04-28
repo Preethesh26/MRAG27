@@ -22,7 +22,7 @@ def search_in_chroma(query: str):
 
     results = collection.query(
         query_embeddings=query_embedding,
-        n_results=3
+        n_results=1
     )
 
     documents = results['documents'][0]
