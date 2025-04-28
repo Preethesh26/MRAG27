@@ -1,10 +1,20 @@
 from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware  # Import CORSMiddleware
 from pydantic import BaseModel
 import chromadb
 from sentence_transformers import SentenceTransformer
 
 # Initialize FastAPI app
 app = FastAPI()
+
+# Allow CORS for specific origins (you can modify this for your frontend domain)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins for now (or specify your frontend domain here)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allow all headers
+)
 
 # Load embedding model
 model = SentenceTransformer('all-MiniLM-L6-v2')
