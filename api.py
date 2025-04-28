@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Query
-from fastapi.middleware.cors import CORSMiddleware  # Import CORSMiddleware
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import chromadb
 from sentence_transformers import SentenceTransformer
@@ -7,13 +7,13 @@ from sentence_transformers import SentenceTransformer
 # Initialize FastAPI app
 app = FastAPI()
 
-# Allow CORS for specific origins (you can modify this for your frontend domain)
+# CORS setup to allow cross-origin requests from any domain
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allow all origins for now (or specify your frontend domain here)
+    allow_origins=["*"],  # Or specify a particular domain, like ["https://mrag27frontend.com"]
     allow_credentials=True,
-    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, etc.)
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Load embedding model
@@ -28,8 +28,10 @@ class QueryRequest(BaseModel):
     query: str
 
 def search_in_chroma(query: str):
+    # Convert query into embedding
     query_embedding = model.encode([query]).tolist()
 
+    # Query the ChromaDB collection for results
     results = collection.query(
         query_embeddings=query_embedding,
         n_results=1
@@ -38,10 +40,19 @@ def search_in_chroma(query: str):
     documents = results['documents'][0]
     metadatas = results['metadatas'][0]
 
+    # Structure the results as per your required format
     return [
         {
-            "document": doc,
-            "metadata": meta
+            "Plant Name": meta["plant_name"],
+            "Scientific Name": meta["scientific_name"],
+            "Healing Properties": meta["healing_properties"],
+            "Uses": meta["uses"],
+            "Description": doc,
+            "Preparation Method": meta["preparation_method"],
+            "Side Effects": meta["side_effects"],
+            "Geographic Availability": meta["geographic_availability"],
+            "Image": meta["image"],  # Assuming metadata contains image URL
+            "Image Missing": meta.get("image_missing", False)
         }
         for doc, meta in zip(documents, metadatas)
     ]
