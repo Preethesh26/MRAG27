@@ -8,7 +8,7 @@
         "Preparation Method": "Roots: Decoction used for stomach ailments, diarrhea, and dysentery.",
         "Side Effects": "May cause allergic reactions in sensitive individuals; excessive use could lead to gastrointestinal discomfort.",
         "Geographic Availability": "Native to Southern India, Bangladesh, and Sri Lanka. Widely cultivated in tropical and subtropical regions, including South Florida and Southeast Asia.",
-        "Image": "images/kepula.jpg",
+        "Image": "/images/kepula.jpg",
         "Image Missing": false
     },
     {
@@ -20,7 +20,7 @@
         "Preparation Method": "Cooking: Used like bay leaves to infuse dishes with citrus aroma, wrapped around meats while grilling, or added to roasts.",
         "Side Effects": "Not commonly associated with serious side effects, but excessive consumption may cause mild digestive discomfort or allergic reactions in some individuals.",
         "Geographic Availability": "Native to South Asia, cultivated widely in tropical and subtropical regions, including the Mediterranean, South America, and parts of North America.",
-        "Image": "images/lemon_leaves.jpg",
+        "Image": "i/mages/lemon_leaves.jpg",
         "Image Missing": false
     },
     {
@@ -32,7 +32,7 @@
         "Preparation Method": "Tea: Steep fresh or dried leaves in hot water. Essential Oil: Dilute and apply to skin or use in aromatherapy. Culinary Use: Chop lower stalks and use in cooking.",
         "Side Effects": "May cause skin irritation, photosensitivity, and possible interactions with sedatives or liver-metabolized drugs. Not recommended during pregnancy.",
         "Geographic Availability": "Native to tropical Asia; cultivated worldwide in warm regions.",
-        "Image": "images/lemon_grass.jpg",
+        "Image": "/images/lemon_grass.jpg",
         "Image Missing": false
     },
     {
@@ -44,7 +44,7 @@
         "Preparation Method": "Leaves can be eaten raw in salads, cooked in curries, or blended into smoothies. In traditional remedies, the leaves are boiled and consumed as soup to treat gastric issues.",
         "Side Effects": "May cause bloating or mild digestive discomfort if consumed in excess due to its mucilaginous nature. Excessive consumption of raw leaves may inhibit calcium absorption due to oxalates.",
         "Geographic Availability": "Native to tropical Asia and Africa; widely cultivated in India, Southeast Asia, and tropical regions worldwide.",
-        "Image": "images/green_spinach.jpg",
+        "Image": "/images/green_spinach.jpg",
         "Image Missing": false
     },
     {
@@ -56,7 +56,7 @@
         "Preparation Method": "For tea: Steep dried petals in hot water. For skin: Prepare a paste or use marigold-infused oil. For medicinal use: Marigold extracts and tinctures are commonly used.",
         "Side Effects": "May cause skin irritation or allergic reactions in sensitive individuals. Overuse may lead to stomach discomfort.",
         "Geographic Availability": "Global (temperate and tropical regions), Native to Mexico",
-        "Image": "images/marigold.jpg",
+        "Image": "/images/marigold.jpg",
         "Image Missing": false
     },
     {
@@ -68,7 +68,7 @@
         "Preparation Method": "Brew fresh or dried leaves in hot water for tea, add to dishes for flavor, use essential oil in aromatherapy or topical applications (diluted).",
         "Side Effects": "May cause acid reflux in some people, allergic reactions, or skin irritation if applied topically in concentrated form. Excessive consumption may lead to dry mouth.",
         "Geographic Availability": "Found globally, commonly in temperate and tropical regions, cultivated in gardens and farms.",
-        "Image": "images/mint.jpg",
+        "Image": "/images/mint.jpg",
         "Image Missing": false
     },
     {
@@ -80,7 +80,7 @@
         "Preparation Method": "Fresh or dried leaves can be brewed into tea; Essential oil is diluted and applied externally; Crushed leaves can be used as an insect repellent.",
         "Side Effects": "Can be toxic in large doses, causing nausea, vomiting, dizziness, and liver damage; May cause skin irritation and photosensitivity (sensitivity to sunlight); Not recommended for pregnant women as it may cause uterine contractions.",
         "Geographic Availability": "Native to Southern Europe; Widely cultivated in Mediterranean regions, North Africa, Asia, and parts of the Americas.",
-        "Image": "images/nagadali.jpg",
+        "Image": "/images/nagadali.jpg",
         "Image Missing": false
     },
     {
@@ -92,7 +92,7 @@
         "Preparation Method": "- Neem Leaves: Consumed as juice or tea for detoxification.",
         "Side Effects": "- Oral Consumption: Large doses may cause nausea, vomiting, diarrhea, and liver toxicity.",
         "Geographic Availability": "- Native to India, Pakistan, Sri Lanka.",
-        "Image": "images/neem.jpg",
+        "Image": "/images/neem.jpg",
         "Image Missing": false
     },
     {
@@ -104,7 +104,7 @@
         "Preparation Method": "- Jamun Juice: Blend Jamun fruit with water, black salt, honey, ginger, and chat masala. Strain and serve chilled. \\n- Jamun Seed Powder: Dry and grind the seeds, then mix with water or honey for diabetes management. \\n- Jamun Bark Decoction: Boil bark in water, cool, and use for oral health or digestive aid. \\n- Raw Consumption: Eat fresh Jamun fruits as a snack or mix with salads.",
         "Side Effects": "- May lower blood sugar excessively, leading to hypoglycemia in diabetic patients. \\n- Can cause constipation if overconsumed due to its astringent nature. \\n- Some individuals may experience allergies, throat irritation, or breathing issues. \\n- Excessive consumption may cause stomach pain due to its acidic content.",
         "Geographic Availability": "Native to India, Sri Lanka, Bangladesh, Indonesia, and the Philippines. Also found in tropical regions of the U.S., Africa, and Australia.",
-        "Image": "images/nerale.jpg",
+        "Image": "/images/nerale.jpg",
         "Image Missing": false
     },
     {
@@ -116,7 +116,7 @@
         "Preparation Method": "- Tea/Infusion: Dried leaves or flowers are boiled in water and consumed for diabetes control - Paste: Crushed leaves applied to wounds or skin infections - Decoction: Root extracts are used in traditional medicine - Pharmaceutical use: Vincristine and vinblastine are extracted for chemotherapy drugs",
         "Side Effects": "- Toxic if consumed in large amounts - Can cause nausea, vomiting, dizziness - Not safe for pregnant women due to its alkaloid content - May lead to low blood pressure or neurotoxic effects",
         "Geographic Availability": "- Widely available in tropical and subtropical regions - Grows in India, Africa, Australia, and South America - Commonly found in gardens and roadsides",
-        "Image": "images/nithyapushpa.jpg",
+        "Image": "/images/nithyapushpa.jpg",
         "Image Missing": false
     },
     {
@@ -128,7 +128,7 @@
         "Preparation Method": "The ripe fruit is crushed, fermented, and then strained to make noni juice. It can also be consumed as a supplement in capsule or powder form. The leaves and roots are sometimes used in herbal preparations.",
         "Side Effects": "May cause digestive discomfort, nausea, liver toxicity (if consumed excessively), and interactions with certain medications. Pregnant and breastfeeding women should consult a doctor before use.",
         "Geographic Availability": "Found in tropical and subtropical regions, including Southeast Asia, Australia, India, Polynesia, and the Pacific Islands.",
-        "Image": "images/noni.jpg",
+        "Image": "/images/noni.jpg",
         "Image Missing": false
     },
     {
@@ -140,7 +140,7 @@
         "Preparation Method": "Can be eaten raw in salads or blended into smoothies. Often cooked by steaming, sautéing, or boiling to retain nutrients. Used in soups, curries, and other dishes.",
         "Side Effects": "Contains oxalates, which may contribute to kidney stone formation if consumed in excess. Excessive intake may interfere with calcium absorption. Raw spinach contains goitrogens that can affect thyroid function.",
         "Geographic Availability": "Grown globally, especially in temperate and subtropical regions. Major producers include the USA, China, and India.",
-        "Image": "images/spinach.jpg",
+        "Image": "/images/spinach.jpg",
         "Image Missing": false
     },
     {
@@ -152,7 +152,7 @@
         "Preparation Method": "- Tea/Tonic: Boil fresh leaves and steep in water - Extracts/Tablets/Powder: Available commercially for medicinal use - Culinary Use: Can be boiled to remove bitterness and eaten like spinach - Meat Tenderizer: Crushed leaves are used for softening meat - Hair Mask: Papaya leaf juice applied to the scalp - Topical Use: Extract applied to wounds or scars",
         "Side Effects": "- Generally safe with minimal side effects - People allergic to papaya should avoid it - Pregnant and breastfeeding women should consult a doctor before use - Choose high-quality supplements to avoid contamination",
         "Geographic Availability": "- Native to Mexico, Central, and South America - Now cultivated in over 57 countries - Grown in tropical regions, including Asia, Southeast Asia, Australia, Africa, the Caribbean, and the United States",
-        "Image": "images/papaya.jpg",
+        "Image": "/images/papaya.jpg",
         "Image Missing": false
     },
     {
@@ -164,7 +164,7 @@
         "Preparation Method": "Leaves: - Boil fresh leaves in water to make a decoction for treating fever, cold, and arthritis - Crush leaves and mix with honey for digestive benefits - Leaf paste can be applied to wounds and skin infections Flowers: - Dried flowers are used in herbal tea for detoxification - Flower extract is applied for skin care Seeds & Bark: - Used in Ayurvedic formulations for liver disorders and immunity boosting",
         "Side Effects": "- Can cause nausea and vomiting if consumed in high doses - Excessive consumption may lead to dizziness - Can trigger allergic reactions in sensitive individuals - Not recommended during pregnancy and breastfeeding without medical advice",
         "Geographic Availability": "- Native to India, Nepal, Sri Lanka, and Southeast Asia - Found in tropical and subtropical regions - Grows well in gardens, temples, and herbal gardens",
-        "Image": "images/parijatha.jpg",
+        "Image": "/images/parijatha.jpg",
         "Image Missing": false
     },
     {
@@ -176,7 +176,7 @@
         "Preparation Method": "- Raw Use: Crushed or ground black pepper is sprinkled over food. - Infusions: Black pepper tea can be made by boiling crushed peppercorns in water. - With Honey: Mixed with honey to relieve sore throat and cough. - In Ayurveda: Combined with turmeric and milk for anti-inflammatory benefits. - Oils & Extracts: Used in essential oils for pain relief and aromatherapy. - Home Remedy: Mixed with ginger and tulsi leaves for cold and flu relief.",
         "Side Effects": "- Excessive consumption may cause stomach irritation, acid reflux, and heartburn. - Can lead to allergic reactions in sensitive individuals. - Overuse may cause burning sensation in the throat or mouth. - High doses may interact with medications, altering their absorption.",
         "Geographic Availability": "- Native to South India and widely cultivated in Kerala, Karnataka, and Tamil Nadu. - Grown in tropical regions such as Vietnam, Indonesia, Brazil, Sri Lanka, and Malaysia. - Requires hot and humid climates for optimal growth.",
-        "Image": "images/pepper.jpg",
+        "Image": "/images/pepper.jpg",
         "Image Missing": false
     },
     {
@@ -188,7 +188,7 @@
         "Preparation Method": "- Raw consumption: Sliced or grated in salads. - Juice: Blended with water and lemon for detoxification. - Cooked: Stir-fried, added to soups, or pickled. - Poultice: Mashed radish applied to affected skin areas. - Radish tea: Boiled radish slices consumed for cough relief.",
         "Side Effects": "- Excessive consumption can cause bloating and gas. - May lead to low blood pressure (hypotension). - Can irritate the stomach lining in people with ulcers or gastritis. - Allergic reactions are rare but possible. - May interfere with thyroid function if consumed in large quantities due to goitrogens.",
         "Geographic Availability": "- Native to Southeast Asia but widely cultivated worldwide. - Grows well in temperate and tropical regions. - Commonly found in India, China, Japan, Europe, and North America. - Thrives in well-drained, loamy soil with full sunlight.",
-        "Image": "images/radish.jpg",
+        "Image": "/images/radish.jpg",
         "Image Missing": false
     },
     {
@@ -200,7 +200,7 @@
         "Preparation Method": "- Powder Form: Mixed with water, rose water, or milk and applied as a face pack. - Essential Oil: Extracted from the heartwood and used in massage, aromatherapy, and skincare. - Decoction: Sandalwood paste is sometimes boiled in water and used as a medicinal drink. - Inhalation: Essential oil is diffused to relieve stress and anxiety. - Paste Application: Used to cool skin irritation, burns, and rashes.",
         "Side Effects": "- Skin Irritation: Some people may experience redness or allergic reactions. - Headache or Nausea: Inhaling strong sandalwood oil for extended periods may cause discomfort. - Toxicity (if ingested in large amounts): May cause stomach issues and toxicity in excessive doses. - Hormonal Effects: Some studies suggest that excessive use of sandalwood oil may interfere with hormone levels.",
         "Geographic Availability": "- Native to India, Indonesia, Sri Lanka, and Australia. - Cultivated in tropical and subtropical regions, including Southeast Asia, Hawaii, and some parts of Africa. - Indian sandalwood (Santalum album) is considered the most valuable variety, especially in Karnataka, Tamil Nadu, and Kerala.",
-        "Image": "images/sandalwood.jpg",
+        "Image": "/images/sandalwood.jpg",
         "Image Missing": false
     },
     {
@@ -212,7 +212,7 @@
         "Preparation Method": "- Essential Oil Extraction: Flowers are steam-distilled to extract oil, used in perfumes and aromatherapy. - Herbal Tea: Dried flowers and leaves are brewed for digestive and respiratory benefits. - Skin Application: Paste made from the bark and flowers is applied to wounds and skin infections. - Hair & Body Oil: Infused flower oil is used for massage and hair nourishment. - Incense & Garlands: Fresh flowers are used in religious offerings and room fresheners.",
         "Side Effects": "- Skin Allergies: Some people may develop rashes or irritation when using champak oil. - Respiratory Issues: Inhaling strong scents for a long time may cause headaches or nausea. - Pregnancy Concerns: Excessive use of champak-based products may have unknown effects on pregnancy. - Toxicity (in large doses): The plant may cause mild toxicity if consumed in excess.",
         "Geographic Availability": "- Native to South Asia, Southeast Asia, Southern China, and Indomalayan regions. - Found in tropical and subtropical forests at elevations of 200–1,600 meters (660–5,250 ft). - Countries: India, Bangladesh, Cambodia, China, Indonesia, Malaysia, Myanmar, Nepal, the Philippines, Thailand, Vietnam, and the Maldives. - In China, found in southern Tibet and Yunnan Province. - A rare population has been found in Yemen, making it the only species of the Magnoliaceae family in the Arabian Peninsula.",
-        "Image": "images/champak.jpg",
+        "Image": "/images/champak.jpg",
         "Image Missing": false
     },
     {
@@ -224,7 +224,7 @@
         "Preparation Method": "The pulp is consumed directly, made into juice, or used in culinary preparations. Tamarind extracts are used in herbal medicines, and decoctions are made from leaves and bark for medicinal applications",
         "Side Effects": "Excess consumption may lead to acidity, tooth erosion, hypoglycemia in diabetics, and allergic reactions in some individuals",
         "Geographic Availability": "Native to tropical Africa, widely grown in India, Southeast Asia, South America, and the Caribbean",
-        "Image": "images/tamarind.jpg",
+        "Image": "/images/tamarind.jpg",
         "Image Missing": false
     },
     {
@@ -236,7 +236,7 @@
         "Preparation Method": "Leaves can be used fresh or dried in cooking; infusions for medicinal purposes.",
         "Side Effects": "Generally safe; excessive consumption may cause stomach upset.",
         "Geographic Availability": "Native to Africa; cultivated in tropical regions, including India.",
-        "Image": "images/Cuban Oregano.jpg",
+        "Image": "/images/Cuban Oregano.jpg",
         "Image Missing": true
     },
     {
@@ -248,7 +248,7 @@
         "Preparation Method": "Fresh leaves are tempered in oil and added to dishes; can be dried for later use.",
         "Side Effects": "Generally safe; excessive consumption may cause stomach upset.",
         "Geographic Availability": "Native to India and Sri Lanka; widely cultivated in tropical and subtropical regions.",
-        "Image": "images/Curry.jpg",
+        "Image": "/images/Curry.jpg",
         "Image Missing": true
     },
     {
@@ -260,7 +260,7 @@
         "Preparation Method": "Leaves can be chewed raw, used in teas, or applied as poultices.",
         "Side Effects": "Generally safe; skin irritation possible in sensitive individuals.",
         "Geographic Availability": "Native to Africa; widely grown in India and other tropical regions.",
-        "Image": "images/Doddapatre.jpg",
+        "Image": "/images/Doddapatre.jpg",
         "Image Missing": true
     },
     {
@@ -272,7 +272,7 @@
         "Preparation Method": "Latex or leaves are used externally; requires expert guidance for internal use.",
         "Side Effects": "Toxic if ingested improperly; can cause skin irritation.",
         "Geographic Availability": "Native to India and Southeast Asia; found in dry, waste areas.",
-        "Image": "images/Ekka.jpg",
+        "Image": "/images/Ekka.jpg",
         "Image Missing": true
     },
     {
@@ -284,7 +284,7 @@
         "Preparation Method": "Leaves are used in decoctions, oils, or as poultices.",
         "Side Effects": "Generally safe; excessive use may cause digestive issues.",
         "Geographic Availability": "Native to India and Southeast Asia; grows in tropical and subtropical regions.",
-        "Image": "images/Ganike.jpg",
+        "Image": "/images/Ganike.jpg",
         "Image Missing": true
     },
     {
@@ -296,7 +296,7 @@
         "Preparation Method": "Seeds are used in cooking; oil extracted for medicinal purposes.",
         "Side Effects": "Potential for dependence; should be used cautiously.",
         "Geographic Availability": "Cultivated worldwide; major producers include India, Turkey, and China.",
-        "Image": "images/Gasgase.jpg",
+        "Image": "/images/Gasgase.jpg",
         "Image Missing": true
     },
     {
@@ -308,7 +308,7 @@
         "Preparation Method": "Fruit is eaten raw or cooked; leaves used in teas.",
         "Side Effects": "Generally safe; excessive consumption may cause digestive discomfort.",
         "Geographic Availability": "Native to Central America; cultivated in tropical and subtropical regions worldwide.",
-        "Image": "images/Guava.jpg",
+        "Image": "/images/Guava.jpg",
         "Image Missing": true
     },
     {
@@ -320,7 +320,7 @@
         "Preparation Method": "Rhizome is used fresh, dried, powdered, or as juice or oil.",
         "Side Effects": "Generally safe; excessive consumption may cause heartburn or digestive issues.",
         "Geographic Availability": "Cultivated in warm climates worldwide; major producers include India, China, and Nigeria.",
-        "Image": "images/Ginger.webp",
+        "Image": "/images/Ginger.webp",
         "Image Missing": true
     },
     {
@@ -332,7 +332,7 @@
         "Preparation Method": "Leaves and stems are used in decoctions, extracts, or capsules.",
         "Side Effects": "May cause digestive discomfort; not recommended for pregnant women.",
         "Geographic Availability": "Native to South Asia; widely cultivated in tropical and subtropical regions.",
-        "Image": "images/Green_Chiretta.jpg",
+        "Image": "/images/Green_Chiretta.jpg",
         "Image Missing": true
     },
     {
@@ -344,7 +344,7 @@
         "Preparation Method": "Leaves are crushed into a paste for application.",
         "Side Effects": "May cause allergic reactions in some individuals.",
         "Geographic Availability": "Native to North Africa and Asia; cultivated in arid and semi-arid regions worldwide.",
-        "Image": "images/Henna.jpg",
+        "Image": "/images/Henna.jpg",
         "Image Missing": true
     },
     {
@@ -356,7 +356,7 @@
         "Preparation Method": "Oil extracted from seeds is applied topically or used as fuel.",
         "Side Effects": "Seeds and oil are toxic if ingested; external use should be cautious.",
         "Geographic Availability": "Native to India and Southeast Asia; cultivated in tropical and subtropical regions.",
-        "Image": "images/Honge.jpg",
+        "Image": "/images/Honge.jpg",
         "Image Missing": true
     },
     {
@@ -368,7 +368,7 @@
         "Preparation Method": "Leaves are chewed raw or consumed as tea.",
         "Side Effects": "May cause hypoglycemia; should be used under medical supervision.",
         "Geographic Availability": "Native to Central and South America; cultivated in India and other tropical regions.",
-        "Image": "images/Insulin.jpg",
+        "Image": "/images/Insulin.jpg",
         "Image Missing": true
     },
     {
@@ -380,7 +380,7 @@
         "Preparation Method": "Flowers are used in teas, oils, or as fragrance.",
         "Side Effects": "Generally safe; excessive inhalation may cause headaches in sensitive individuals.",
         "Geographic Availability": "Native to tropical and warm temperate regions; cultivated worldwide.",
-        "Image": "images/Jasmine.jpg",
+        "Image": "/images/Jasmine.jpg",
         "Image Missing": true
     },
     {
@@ -392,7 +392,7 @@
         "Preparation Method": "Bark and flowers are used in decoctions, curries, or salads.",
         "Side Effects": "Generally safe; excessive consumption may cause digestive issues.",
         "Geographic Availability": "Native to Southeast Asia; cultivated in tropical and subtropical regions.",
-        "Image": "images/Kachhar.jpg",
+        "Image": "/images/Kachhar.jpg",
         "Image Missing": true
     },
     {
@@ -404,7 +404,7 @@
         "Preparation Method": "Leaves are used in teas, extracts, or chewed raw.",
         "Side Effects": "May cause low blood sugar if overused.",
         "Geographic Availability": "Native to India; widely grown in Southeast Asia.",
-        "Image": "images/Kamakasturi.jpg",
+        "Image": "/images/Kamakasturi.jpg",
         "Image Missing": true
     },
     {
@@ -416,7 +416,7 @@
         "Preparation Method": "Topical Use: Extract gel from the leaf and apply to the skin. Oral Use: Consume aloe juice for digestion, diabetes, and weight loss (in moderation).",
         "Side Effects": "Topical use may cause burning, itching, rash, or eczema. Oral use may cause abdominal cramps, diarrhea, and liver issues if used excessively. Aloe latex has potential carcinogenic effects. Pregnant and breastfeeding women should avoid oral use.",
         "Geographic Availability": "Grows in tropical and subtropical regions globally, including the U.S. (Texas, New Mexico, Arizona, California), India, and parts of Africa.",
-        "Image": "images/aloevera.jpg",
+        "Image": "/images/aloevera.jpg",
         "Image Missing": true
     },
     {
@@ -428,7 +428,7 @@
         "Preparation Method": "1. Giloy Juice – Extracted from the stem and consumed for immunity. 2. Giloy Powder (Churna) – Sun-dried stems ground into fine powder. 3. Giloy Satva – Stem ground in water, residue collected, cleaned, and dried to powder form. 4. Giloy Tablets/Syrup – Marketed products containing Giloy, often mixed with Tulsi, Amla, and Neem.",
         "Side Effects": "Can cause constipation, lower blood sugar levels, and may not be suitable for pregnant or breastfeeding women. Should be taken under medical supervision",
         "Geographic Availability": "Common in India, Myanmar, and Sri Lanka. Grows in backyards, along fences, walls, and trees, particularly in Mysuru and tropical forests.",
-        "Image": "images/amrutha_balli.jpg",
+        "Image": "/images/amrutha_balli.jpg",
         "Image Missing": true
     },
     {
@@ -440,7 +440,7 @@
         "Preparation Method": "Caution: Due to its toxic nature, it is not recommended for home preparation. Medicinal extracts should only be used under professional supervision.",
         "Side Effects": "Highly toxic if ingested. Can cause severe nausea, vomiting, diarrhea, weakness, stomach pain, and even death. Applying oleander extracts to the skin may also be unsafe.",
         "Geographic Availability": "Native to the Mediterranean region but widely cultivated in tropical and subtropical regions worldwide, including India and Sri Lanka. Commonly found in gardens and roadsides.",
-        "Image": "images/arali.jpeg",
+        "Image": "/images/arali.jpeg",
         "Image Missing": true
     },
     {
@@ -452,7 +452,7 @@
         "Preparation Method": "Bark decoction, flower juice, herbal powder",
         "Side Effects": "May cause constipation in high doses; consult doctor during pregnancy",
         "Geographic Availability": "Native to India, Nepal, Sri Lanka, Myanmar; found in tropical forests",
-        "Image": "images/Ashoka.jpg",
+        "Image": "/images/Ashoka.jpg",
         "Image Missing": true
     },
     {
@@ -464,7 +464,7 @@
         "Preparation Method": "Consumed as capsules (250–1,500 mg), powder, or liquid extract; root powder mixed with milk or water",
         "Side Effects": "May cause digestive issues (diarrhea, nausea, vomiting) in high doses; avoid during pregnancy, surgery, or if having thyroid disorders",
         "Geographic Availability": "Native to India, the Middle East, and parts of Africa",
-        "Image": "images/ashwagandha.jpg",
+        "Image": "/images/ashwagandha.jpg",
         "Image Missing": true
     },
     {
@@ -476,7 +476,7 @@
         "Preparation Method": "Cook leaves in soups or stir-fry, or eat raw in salads. Can also be blended into juices.",
         "Side Effects": "May cause mild bloating or stomach discomfort if consumed in excess.",
         "Geographic Availability": "Widely available in tropical regions, especially in Asia, Africa, and South America.",
-        "Image": "images/Basale.jpg",
+        "Image": "/images/Basale.jpg",
         "Image Missing": true
     },
     {
@@ -488,7 +488,7 @@
         "Preparation Method": "Leaves are chewed raw with areca nut, used in cooking, or prepared as an herbal mouthwash.",
         "Side Effects": "Prolonged chewing (especially with areca nut and tobacco) can cause cancer, cardiovascular issues, and other health problems.",
         "Geographic Availability": "Native to Southeast Asia, cultivated widely in India, Bangladesh, Sri Lanka, Indonesia, and Pacific Islands.",
-        "Image": "images/betel.jpg",
+        "Image": "/images/betel.jpg",
         "Image Missing": true
     },
     {
@@ -500,7 +500,7 @@
         "Preparation Method": "The leaves can be consumed fresh, dried, or as a powder. It is commonly used to make herbal tea by boiling the leaves in water. Brahmi oil, made by infusing the leaves in coconut or sesame oil, is applied to the scalp for relaxation and better sleep. Capsules and syrups are also available for easy consumption.",
         "Side Effects": "May cause mild digestive discomfort, nausea, or fatigue if taken in high doses. Not recommended for pregnant women or individuals on sedatives without medical supervision.",
         "Geographic Availability": "Native to India and found in wetlands across Indochina, Sri Lanka, Australia, and tropical regions worldwide.",
-        "Image": "images/brahmi.jpg",
+        "Image": "/images/brahmi.jpg",
         "Image Missing": true
     },
     {
@@ -512,7 +512,7 @@
         "Preparation Method": "For Hair:                  Boil Bhringaraj leaves in coconut oil and apply to the scalp.            For Digestion: Prepare herbal tea by boiling dried leaves in water.                       For Skin: Crush fresh leaves and apply as a paste to affected areas.                       For Liver Health: Consume Bhringaraj juice with honey in moderation.",
         "Side Effects": "May cause low blood pressure or dizziness if taken in large amounts. Pregnant or breastfeeding women should consult a doctor before use.",
         "Geographic Availability": "India, China, Nepal, Thailand, Brazil, Sri Lanka, and other tropical regions",
-        "Image": "images/bhringaraj.jpg",
+        "Image": "/images/bhringaraj.jpg",
         "Image Missing": true
     },
     {
@@ -524,7 +524,7 @@
         "Preparation Method": "Brew dried flowers in hot water for tea, mix with lemon for a color change, use in skincare for anti-aging benefits, or as a natural food dye.",
         "Side Effects": "Generally safe, but excessive consumption may cause nausea, dizziness, or digestive issues in sensitive individuals. Pregnant women should consult a doctor before use.",
         "Geographic Availability": "Native to Southeast Asia, India, and widely grown in tropical and subtropical regions.",
-        "Image": "images/Butterfly_Pea.jpg",
+        "Image": "/images/Butterfly_Pea.jpg",
         "Image Missing": true
     },
     {
@@ -536,7 +536,7 @@
         "Preparation Method": "Leaves are pounded and applied as a paste, decoctions are taken for menstrual regulation, and extracts are used for inflammation relief.",
         "Side Effects": "Generally safe, but may cause uterine contractions; should be avoided during pregnancy.",
         "Geographic Availability": "Native to New Guinea, commonly cultivated in tropical regions.",
-        "Image": "images/Caricature.jpg",
+        "Image": "/images/Caricature.jpg",
         "Image Missing": true
     },
     {
@@ -548,7 +548,7 @@
         "Preparation Method": "Oil is extracted by pressing or solvent extraction; applied externally for skin care, used in lubricants, or consumed as a laxative (caution needed).",
         "Side Effects": "Ricin in seeds is highly toxic; ingestion of raw seeds can be fatal.",
         "Geographic Availability": "Native to Africa, widely cultivated in India, China, and Brazil.",
-        "Image": "images/Castor.jpg",
+        "Image": "/images/Castor.jpg",
         "Image Missing": true
     },
     {
@@ -560,7 +560,7 @@
         "Preparation Method": "The leaves or paste can be applied externally to wounds and skin infections for faster healing.",
         "Side Effects": "May cause mild skin irritation in some individuals.",
         "Geographic Availability": "India, Southeast Asia",
-        "Image": "images/Chakte.jpg",
+        "Image": "/images/Chakte.jpg",
         "Image Missing": true
     },
     {
@@ -572,7 +572,7 @@
         "Preparation Method": "Use in cooking, Prepare herbal infusions, Apply fruit juice on skin, Extract oil for medicinal use",
         "Side Effects": "May cause acidity, Tooth enamel erosion, Skin irritation in some individuals",
         "Geographic Availability": "India , Southeast Asia, Mediterranean",
-        "Image": "images/citron_lime.jpg",
+        "Image": "/images/citron_lime.jpg",
         "Image Missing": true
     },
     {
@@ -584,7 +584,7 @@
         "Preparation Method": "Roast and grind beans, Brew into coffee, Use in face scrubs and hair treatments",
         "Side Effects": "May cause insomnia, Increased heart rate, Acid reflux, Dependency with overuse",
         "Geographic Availability": "Tropical regions, including South America, Africa, India, and Southeast Asia",
-        "Image": "images/coffee.jpg",
+        "Image": "/images/coffee.jpg",
         "Image Missing": true
     },
     {
@@ -596,7 +596,7 @@
         "Preparation Method": "Consumed raw or cooked; Used as seasoning; Coriander essential oil applied topically; Infused into tea",
         "Side Effects": "Possible allergic reactions; May lower blood sugar and blood pressure; Skin irritation in some cases; May interact with medications",
         "Geographic Availability": "Grown worldwide, especially in India, the Mediterranean, and parts of Europe and the Americas",
-        "Image": "images/coriander.jpg",
+        "Image": "/images/coriander.jpg",
         "Image Missing": true
     },
     {
@@ -608,7 +608,7 @@
         "Preparation Method": "Leaf juice is applied directly to fresh cuts to stop bleeding and promote healing.",
         "Side Effects": "Possible skin irritation when applied externally; Generally safe for medicinal use",
         "Geographic Availability": "Found in tropical and subtropical regions; Commonly grown as a houseplant and in outdoor gardens",
-        "Image": "images/Red_Flame_Ivy.jpg",
+        "Image": "/images/Red_Flame_Ivy.jpg",
         "Image Missing": true
     },
     {
@@ -620,7 +620,7 @@
         "Preparation Method": "1. Leaf juice can be used for eye diseases, sinusitis, and tonsillitis. 2. Crush 3-4 leaves with a small onion and salt, apply on the head before sunrise for three days. 3. Inhale pressed leaves to relieve colds.",
         "Side Effects": "May cause mild skin irritation or allergic reactions in some individuals.",
         "Geographic Availability": "India, Southeast Asia",
-        "Image": "images/thumbe.jpg",
+        "Image": "/images/thumbe.jpg",
         "Image Missing": true
     }
 ]
