@@ -26,7 +26,6 @@ collection = client.get_collection(name="plants_collection")
 # Define input schema
 class QueryRequest(BaseModel):
     query: str
-
 def search_in_chroma(query: str):
     # Convert query into embedding
     query_embedding = model.encode([query]).tolist()
@@ -40,23 +39,22 @@ def search_in_chroma(query: str):
     documents = results['documents'][0]
     metadatas = results['metadatas'][0]
 
-    # Structure the results as per your required format
+    # Structure the results correctly
     return [
         {
-            "Plant Name": meta["plant_name"],
-            "Scientific Name": meta["scientific_name"],
-            "Healing Properties": meta["healing_properties"],
-            "Uses": meta["uses"],
+            "Plant Name": meta["Plant Name"],
+            "Scientific Name": meta["Scientific Name"],
+            "Healing Properties": meta["Healing Properties"],
+            "Uses": meta["Uses"],
             "Description": doc,
-            "Preparation Method": meta["preparation_method"],
-            "Side Effects": meta["side_effects"],
-            "Geographic Availability": meta["geographic_availability"],
-            "Image": meta["image"],  # Assuming metadata contains image URL
-            "Image Missing": meta.get("image_missing", False)
+            "Preparation Method": meta["Preparation Method"],
+            "Side Effects": meta["Side Effects"],
+            "Geographic Availability": meta["Geographic Availability"],
+            "Image": meta["Image"],  # Assuming metadata contains image URL
+            "Image Missing": meta.get("Image Missing", False)
         }
         for doc, meta in zip(documents, metadatas)
     ]
-
 # --- POST method
 @app.post("/search/")
 async def search_post(req: QueryRequest):
