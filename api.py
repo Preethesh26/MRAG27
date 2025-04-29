@@ -29,32 +29,30 @@ collection = client.get_collection(name="plants_collection")
 # Define input schema
 class QueryRequest(BaseModel):
     query: str
+BASE_IMAGE_URL = "https://mrag27.onrender.com/images/"
+
 def search_in_chroma(query: str):
     query_embedding = model.encode([query]).tolist()
-
-    results = collection.query(
-        query_embeddings=query_embedding,
-        n_results=1
-    )
-
+    results = collection.query(query_embeddings=query_embedding, n_results=1)
     documents = results['documents'][0]
     metadatas = results['metadatas'][0]
 
     return [
         {
-            "Plant Name": meta.get("Plant Name", "Unknown"),
-            "Scientific Name": meta.get("Scientific Name", "Unknown"),
-            "Healing Properties": meta.get("Healing Properties", "Not available"),
-            "Uses": meta.get("Uses", "Not available"),
+            "Plant Name": meta["Plant Name"],
+            "Scientific Name": meta["Scientific Name"],
+            "Healing Properties": meta["Healing Properties"],
+            "Uses": meta["Uses"],
             "Description": doc,
-            "Preparation Method": meta.get("Preparation Method", "Not available"),
-            "Side Effects": meta.get("Side Effects", "Not available"),
-            "Geographic Availability": meta.get("Geographic Availability", "Unknown"),
-            "Image": meta.get("Image"),  # ✅ No need to modify
-            "Image Missing": meta.get("Image Missing", True)
+            "Preparation Method": meta["Preparation Method"],
+            "Side Effects": meta["Side Effects"],
+            "Geographic Availability": meta["Geographic Availability"],
+            "Image": BASE_IMAGE_URL + meta["Image"] if meta.get("Image") else None,
+            "Image Missing": not bool(meta.get("Image"))
         }
         for doc, meta in zip(documents, metadatas)
     ]
+
 
 # --- POST method
 @app.post("/search/")
