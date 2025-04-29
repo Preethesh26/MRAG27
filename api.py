@@ -33,12 +33,26 @@ BASE_IMAGE_URL = "https://mrag27.onrender.com/images/"
 
 def search_in_chroma(query: str):
     query_embedding = model.encode([query]).tolist()
-    results = collection.query(query_embeddings=query_embedding, n_results=1)
+
+    results = collection.query(
+        query_embeddings=query_embedding,
+        n_results=1
+    )
+
     documents = results['documents'][0]
     metadatas = results['metadatas'][0]
 
-    return [
-        {
+    search_results = []
+    for doc, meta in zip(documents, metadatas):
+        image_filename = meta.get("Image", "")
+        if image_filename:
+            if image_filename.startswith("images/"):
+                image_filename = image_filename[len("images/"):]
+            full_image_url = BASE_IMAGE_URL + image_filename
+        else:
+            full_image_url = None
+
+        plant = {
             "Plant Name": meta["Plant Name"],
             "Scientific Name": meta["Scientific Name"],
             "Healing Properties": meta["Healing Properties"],
@@ -47,12 +61,12 @@ def search_in_chroma(query: str):
             "Preparation Method": meta["Preparation Method"],
             "Side Effects": meta["Side Effects"],
             "Geographic Availability": meta["Geographic Availability"],
-            "Image": BASE_IMAGE_URL + meta["Image"] if meta.get("Image") else None,
-            "Image Missing": not bool(meta.get("Image"))
+            "Image": full_image_url,
+            "Image Missing": not bool(image_filename)
         }
-        for doc, meta in zip(documents, metadatas)
-    ]
+        search_results.append(plant)
 
+    return search_results
 
 # --- POST method
 @app.post("/search/")
