@@ -77,3 +77,32 @@ async def search_post(req: QueryRequest):
 @app.get("/search/")
 async def search_get(query: str = Query(...)):
     return {"results": search_in_chroma(query)}
+
+
+
+from transformers import pipeline
+
+# Load T5 Question-Answering pipeline
+qa_model = pipeline("text2text-generation", model="google/flan-t5-base")
+
+@app.post("/ask")
+async def ask_question(req: QueryRequest):
+    user_question = req.query
+    results = search_in_chroma(user_question)
+
+    if not results:
+        return {"answer": "Sorry, I couldn't find any related medicinal plant."}
+
+    # Use the first match for context
+    context = results[0]
+
+    # Create a natural language prompt for T5
+    prompt = (
+        f"Context: {context['Plant Name']}, {context['Healing Properties']}, {context['Uses']}, "
+        f"{context['Preparation Method']}. Question: {user_question} Answer:"
+    )
+
+    # Generate the answer
+    answer = qa_model(prompt, max_length=100, do_sample=False)[0]['generated_text']
+
+    return {"answer": answer}
