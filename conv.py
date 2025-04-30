@@ -2,13 +2,13 @@
 # import json
 
 # # Load your Excel file
-# df = pd.read_excel('D:\MRAG27\plants.xlsx')
+# df = pd.read_excel(r"C:\Users\Asus\OneDrive\Desktop\plant_formatted_final.xlsx")
 
 # # Convert DataFrame to a list of dictionaries
 # plants_data = df.to_dict(orient='records')
 
 # # Save as JSON
-# with open('D:\MRAG27\plants.json', 'w', encoding='utf-8') as f:
+# with open('D:\MRAG27\plants.json1', 'w', encoding='utf-8') as f:
 #     json.dump(plants_data, f, ensure_ascii=False, indent=4)
 
 # print("Conversion successful! plants.json created.")
@@ -48,7 +48,7 @@ import chromadb
 import json
 
 # Load JSON
-with open('D:/MRAG27/plants.json', 'r', encoding='utf-8') as f:
+with open('D:/MRAG27/plants.json1', 'r', encoding='utf-8') as f:
     plants_data = json.load(f)
 
 # Load model
