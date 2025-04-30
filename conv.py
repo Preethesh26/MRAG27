@@ -1,17 +1,17 @@
-# import pandas as pd
-# import json
+import pandas as pd
+import json
 
-# # Load your Excel file
-# df = pd.read_excel(r"C:\Users\Asus\OneDrive\Desktop\plant_formatted_final.xlsx")
+# Load your Excel file
+df = pd.read_excel(r"C:\Users\Asus\OneDrive\Desktop\plant_formatted_final.xlsx")
 
-# # Convert DataFrame to a list of dictionaries
-# plants_data = df.to_dict(orient='records')
+# Convert DataFrame to a list of dictionaries
+plants_data = df.to_dict(orient='records')
 
-# # Save as JSON
-# with open('D:\MRAG27\plants.json1', 'w', encoding='utf-8') as f:
-#     json.dump(plants_data, f, ensure_ascii=False, indent=4)
+# Save as JSON
+with open('D:\MRAG27\plants1.json', 'w', encoding='utf-8') as f:
+    json.dump(plants_data, f, ensure_ascii=False, indent=4)
 
-# print("Conversion successful! plants.json created.")
+print("Conversion successful! plants.json created.")
 
 
 
@@ -43,47 +43,47 @@
 
 # print("✅ Embeddings generated and saved as plant_embeddings.pkl!")
 
-from sentence_transformers import SentenceTransformer
-import chromadb
-import json
+# from sentence_transformers import SentenceTransformer
+# import chromadb
+# import json
 
-# Load JSON
-with open('D:/MRAG27/plants.json1', 'r', encoding='utf-8') as f:
-    plants_data = json.load(f)
+# # Load JSON
+# with open('D:/MRAG27/plants1.json', 'r', encoding='utf-8') as f:
+#     plants_data = json.load(f)
 
-# Load model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# # Load model
+# model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Prepare texts and metadata
-texts = []
-metadatas = []
-for idx, plant in enumerate(plants_data):
-    # Create a detailed combined text for better embedding
-    combined_text = (
-        f"Plant Name: {plant.get('Plant Name', '')}. "
-        f"Scientific Name: {plant.get('Scientific Name', '')}. "
-        f"Healing Properties: {plant.get('Healing Properties', '')}. "
-        f"Uses: {plant.get('Uses', '')}. "
-        f"Description: {plant.get('Description', '')}. "
-        f"Preparation Method: {plant.get('Preparation Method', '')}. "
-        f"Side Effects: {plant.get('Side Effects', '')}. "
-        f"Geographic Availability: {plant.get('Geographic Availability', '')}."
-    )
-    texts.append(combined_text)
-    metadatas.append(plant)
+# # Prepare texts and metadata
+# texts = []
+# metadatas = []
+# for idx, plant in enumerate(plants_data):
+#     # Create a detailed combined text for better embedding
+#     combined_text = (
+#         f"Plant Name: {plant.get('Plant Name', '')}. "
+#         f"Scientific Name: {plant.get('Scientific Name', '')}. "
+#         f"Healing Properties: {plant.get('Healing Properties', '')}. "
+#         f"Uses: {plant.get('Uses', '')}. "
+#         f"Description: {plant.get('Description', '')}. "
+#         f"Preparation Method: {plant.get('Preparation Method', '')}. "
+#         f"Side Effects: {plant.get('Side Effects', '')}. "
+#         f"Geographic Availability: {plant.get('Geographic Availability', '')}."
+#     )
+#     texts.append(combined_text)
+#     metadatas.append(plant)
 
-# Initialize Chroma Client
-client = chromadb.PersistentClient(path="./chroma_db")
+# # Initialize Chroma Client
+# client = chromadb.PersistentClient(path="./chroma_db")
 
-# Create or Get collection
-collection = client.get_or_create_collection(name="plants_collection")
+# # Create or Get collection
+# collection = client.get_or_create_collection(name="plants_collection")
 
-# Add documents to Chroma
-collection.add(
-    documents=texts,
-    metadatas=metadatas,
-    ids=[str(i) for i in range(len(texts))]
-)
+# # Add documents to Chroma
+# collection.add(
+#     documents=texts,
+#     metadatas=metadatas,
+#     ids=[str(i) for i in range(len(texts))]
+# )
 
-print("✅ Successfully added all plants to ChromaDB!")
+# print("✅ Successfully added all plants to ChromaDB!")
 
