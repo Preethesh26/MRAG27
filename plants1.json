@@ -622,29 +622,6 @@
         "Geographic Availability": "India, Southeast Asia",
         "Image": "images/thumbe.jpg",
         "Image Missing": 1.0
-    },
-    {
-        "Plant Name": NaN,
-        "Scientific Name": NaN,
-        "Healing Properties": NaN,
-        "Uses": NaN,
-        "Description": NaN,
-        "Preparation Method": NaN,
-        "Side Effects": NaN,
-        "Geographic Availability": NaN,
-        "Image": NaN,
-        "Image Missing": NaN
-    },
-    {
-        "Plant Name": NaN,
-        "Scientific Name": NaN,
-        "Healing Properties": NaN,
-        "Uses": NaN,
-        "Description": NaN,
-        "Preparation Method": "1. 0",
-        "Side Effects": NaN,
-        "Geographic Availability": NaN,
-        "Image": NaN,
-        "Image Missing": NaN
     }
+   
 ]

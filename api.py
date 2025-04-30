@@ -57,7 +57,7 @@ def search_in_chroma(query: str):
             "Scientific Name": meta["Scientific Name"],
             "Healing Properties": meta["Healing Properties"],
             "Uses": meta["Uses"],
-            "Description": doc,
+            "Description": meta["Description"],
             "Preparation Method": meta["Preparation Method"],
             "Side Effects": meta["Side Effects"],
             "Geographic Availability": meta["Geographic Availability"],
