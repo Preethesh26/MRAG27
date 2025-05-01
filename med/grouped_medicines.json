@@ -1,0 +1,3971 @@
+{
+  "Abdomen": [
+    {
+      "Name of Medicine": "Indu kanta Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Udara"
+    },
+    {
+      "Name of Medicine": "Gandharvahasta Taila",
+      "Dose and Mode of Administration": "6-12 ml",
+      "Indication": "Udara"
+    }
+  ],
+  "Abdominal Distention": [
+    {
+      "Name of Medicine": "Yavakshar",
+      "Dose and Mode of Administration": "500 mg - 1 gm",
+      "Indication": "Adhamana"
+    },
+    {
+      "Name of Medicine": "Arka Shatpushpa/\nMishr eyarka",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Adhamana"
+    }
+  ],
+  "Abdominal Pain": [
+    {
+      "Name of Medicine": "Kumaryasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Paktishula"
+    },
+    {
+      "Name of Medicine": "Indu kanta Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Arka Shatpushpa/\nMishr eyarka",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Ajamodadi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Shankha Vati",
+      "Dose and Mode of Administration": "250-500 mg in divided doses",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Dashamula Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Arka  Yavani/Arka\nAjvayana",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Trikshula"
+    },
+    {
+      "Name of Medicine": "Hingvashtaka Churna",
+      "Dose and Mode of Administration": "2- 4 gm",
+      "Indication": "Shula"
+    },
+    {
+      "Name of Medicine": "Dhanyapanchaka\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Amashula"
+    },
+    {
+      "Name of Medicine": "Rasnasaptaka Kashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with Shunti Churna",
+      "Indication": "Trikshula"
+    }
+  ],
+  "Abdominal Tumor": [
+    {
+      "Name of Medicine": "Vettumaran Gulika",
+      "Dose and Mode of Administration": "250-375 mg",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Trivritamul Churna / Trivrita Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Sukumar Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Hingvashtaka Churna",
+      "Dose and Mode of Administration": "2- 4 gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Apamarga Kshar",
+      "Dose and Mode of Administration": "125-500 mg",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Kshirashatpala Ghrita",
+      "Dose and Mode of Administration": "Up to 50 gm per day in divided doses with warm water",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Yavakshar",
+      "Dose and Mode of Administration": "500 mg - 1 gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Sanjivani Vati",
+      "Dose and Mode of Administration": "125 mg",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Rohitakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Bala Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Gandharvahasta Taila",
+      "Dose and Mode of Administration": "6-12 ml",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Pippalyadyasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Kankayan Gutika",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Pippali mula Churna",
+      "Dose and Mode of Administration": "500mg -1 gm",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Triphala Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Gulma"
+    },
+    {
+      "Name of Medicine": "Kalyanak Guda",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Gulma"
+    }
+  ],
+  "Abdominal Tumors with Pain": [
+    {
+      "Name of Medicine": "Bilvadi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Shula Yukta Bradhna"
+    }
+  ],
+  "Abnormal Uterine Bleeding": [
+    {
+      "Name of Medicine": "Pushyanuga Churna",
+      "Dose and Mode of Administration": "2-3 gm",
+      "Indication": "Raktapradara"
+    }
+  ],
+  "Abscess": [
+    {
+      "Name of Medicine": "Brihanmasha Taila/Mahamash Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Vidradhi"
+    },
+    {
+      "Name of Medicine": "Gandharvahasta Taila",
+      "Dose and Mode of Administration": "6-12 ml",
+      "Indication": "Vidradhi"
+    }
+  ],
+  "Acidity": [
+    {
+      "Name of Medicine": "Kamadudha  Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Amlapitta"
+    },
+    {
+      "Name of Medicine": "Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Amlapitta"
+    },
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Amlapitta"
+    },
+    {
+      "Name of Medicine": "Avipattikara Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Amlapitta"
+    },
+    {
+      "Name of Medicine": "Shankha Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Amlapitta"
+    }
+  ],
+  "Aging": [
+    {
+      "Name of Medicine": "Brahama Rasayana",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk",
+      "Indication": "Jara"
+    }
+  ],
+  "Aging-related Disorders": [
+    {
+      "Name of Medicine": "Punarnava Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Vriddhiroga"
+    }
+  ],
+  "Allergic Rhinitis": [
+    {
+      "Name of Medicine": "Jatiphaladya Churna",
+      "Dose and Mode of Administration": "1-3 gm",
+      "Indication": "Vatashlaismika Pratishyaya"
+    }
+  ],
+  "Alopecia (Hair Loss)": [
+    {
+      "Name of Medicine": "Bhringaraja Tail",
+      "Dose and Mode of Administration": "For Nasya, Shiroabhyanga, Kavalgraha",
+      "Indication": "Indralupta"
+    }
+  ],
+  "Anal Fistula": [
+    {
+      "Name of Medicine": "Kalyanak Guda",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Bhagandar"
+    },
+    {
+      "Name of Medicine": "Triphala Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Bhagandara"
+    },
+    {
+      "Name of Medicine": "Ksharsutra",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Bhagandara"
+    }
+  ],
+  "Anemia": [
+    {
+      "Name of Medicine": "Lohasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Navayasa Lauha",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Vasaguduchyadi\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml  once or  two times a day",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Punarnava Churna",
+      "Dose and Mode of Administration": "2-3 gm",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Dadimadi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Phalatrikadi Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Drakshavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice a day",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Mandur Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Pandu"
+    },
+    {
+      "Name of Medicine": "Punarnavadi Mandura",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Pandu"
+    }
+  ],
+  "Anemia and Weakness": [
+    {
+      "Name of Medicine": "Drakshasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pandu Duarbalya"
+    }
+  ],
+  "Anxiety": [
+    {
+      "Name of Medicine": "Sarasvatarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Udvega"
+    }
+  ],
+  "Aphrodisiac": [
+    {
+      "Name of Medicine": "Gokshura Churna",
+      "Dose and Mode of Administration": "2-5 gm",
+      "Indication": "Vrishya"
+    }
+  ],
+  "Back Pain": [
+    {
+      "Name of Medicine": "Rasnasaptaka Kashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with Shunti Churna",
+      "Indication": "Urushula"
+    }
+  ],
+  "Bad Breath": [
+    {
+      "Name of Medicine": "Khadiradi Gutika (Mukhroga)",
+      "Dose and Mode of Administration": "1 - 2 pills",
+      "Indication": "Mukhdaurgandhya"
+    }
+  ],
+  "Bleeding Disorders": [
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Raktapitta"
+    },
+    {
+      "Name of Medicine": "Jaharamohara\nBhasma",
+      "Dose and Mode of Administration": "250- 500 mg",
+      "Indication": "Raktapitta"
+    },
+    {
+      "Name of Medicine": "Vasaguduchyadi\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml  once or  two times a day",
+      "Indication": "Raktapitta"
+    },
+    {
+      "Name of Medicine": "Vasakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Raktapitta"
+    },
+    {
+      "Name of Medicine": "Jaharamohara\nBhasma",
+      "Dose and Mode of Administration": "250- 500 mg",
+      "Indication": "Raktaj Pravahika"
+    },
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Raktasrava"
+    },
+    {
+      "Name of Medicine": "Kamadudha  Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Raktapitta"
+    },
+    {
+      "Name of Medicine": "Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Raktapitta"
+    }
+  ],
+  "Blindness": [
+    {
+      "Name of Medicine": "Saptamrita Lauha",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Timira"
+    },
+    {
+      "Name of Medicine": "Elanirkuzambu/N alikeranjana",
+      "Dose and Mode of Administration": "1-2 drops to be instilled in eyes",
+      "Indication": "Timira"
+    },
+    {
+      "Name of Medicine": "Triphala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Timira"
+    }
+  ],
+  "Bloating": [
+    {
+      "Name of Medicine": "Yavakshar",
+      "Dose and Mode of Administration": "500 mg - 1 gm",
+      "Indication": "Anaha"
+    },
+    {
+      "Name of Medicine": "Arka  Yavani/Arka\nAjvayana",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Anaha"
+    },
+    {
+      "Name of Medicine": "Pippali mula Churna",
+      "Dose and Mode of Administration": "500mg -1 gm",
+      "Indication": "Anaha"
+    },
+    {
+      "Name of Medicine": "Triphala Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Anaha"
+    }
+  ],
+  "Blood Diarrhea": [
+    {
+      "Name of Medicine": "Kutajarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Raktatisara"
+    }
+  ],
+  "Blood Disorders": [
+    {
+      "Name of Medicine": "Muktashukti Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Raktajroga"
+    }
+  ],
+  "Blood Impurity": [
+    {
+      "Name of Medicine": "Panchanimba Churna",
+      "Dose and Mode of Administration": "3- 5 gm",
+      "Indication": "Raktadushti"
+    },
+    {
+      "Name of Medicine": "Gandhak Rasayana",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Raktadushti"
+    }
+  ],
+  "Blood Stasis": [
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Raktanishthivana"
+    }
+  ],
+  "Body Pain": [
+    {
+      "Name of Medicine": "Karpuradi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Angavedana"
+    }
+  ],
+  "Body Stiffness": [
+    {
+      "Name of Medicine": "Kottamachukkadi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Angasthambha"
+    }
+  ],
+  "Boils": [
+    {
+      "Name of Medicine": "Haridrakhanda\nPaka",
+      "Dose and Mode of Administration": "6gm with warm water or milk, twice a day",
+      "Indication": "Kotha"
+    }
+  ],
+  "Bone Fracture": [
+    {
+      "Name of Medicine": "Lakshadi Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water ",
+      "Indication": "Asthibhagna"
+    }
+  ],
+  "Bone Loss": [
+    {
+      "Name of Medicine": "Lakshadi Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water ",
+      "Indication": "Asthichyuti"
+    }
+  ],
+  "Brain Tonic": [
+    {
+      "Name of Medicine": "Sarasvata Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Medhya"
+    }
+  ],
+  "Breathlessness": [
+    {
+      "Name of Medicine": "Chitraka Haritaki",
+      "Dose and Mode of Administration": "10 - 50 gm in divided doses with warm water or milk ",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Apamarga Kshar",
+      "Dose and Mode of Administration": "125-500 mg",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Chyavanprash\nAvaleha",
+      "Dose and Mode of Administration": "12-24 gm with warm water or milk",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Shvasakuthara Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Shunthi Churna",
+      "Dose and Mode of Administration": "2- 3 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Kantakaryavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Pippali Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Talishadya Churna",
+      "Dose and Mode of Administration": "2-4 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Vyaghri Haritaki",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Dashmula Katutraya\nKvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Sitopaladi Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Kanakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Tankana Bhasma/ Saubhagya Bhasma",
+      "Dose and Mode of Administration": "125 - 250 mg",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Lavangadi Vati",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Dhanvantar Gutika",
+      "Dose and Mode of Administration": "250 -500 mg",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Eladi Churna",
+      "Dose and Mode of Administration": "2 -4 gm",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Vasavaleha",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Agastya Haritaki\n/ Agastya Rasayana",
+      "Dose and Mode of Administration": "5 -   15 gm, two to three times a day",
+      "Indication": "Shvasa"
+    },
+    {
+      "Name of Medicine": "Vasakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shvasa"
+    }
+  ],
+  "Burn Injury": [
+    {
+      "Name of Medicine": "Shveta Malaham",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Agnidagdha"
+    }
+  ],
+  "Burning Feet": [
+    {
+      "Name of Medicine": "Shatavariguda",
+      "Dose and Mode of Administration": "6-12 gm with warm milk, twice a day",
+      "Indication": "Padadaha"
+    }
+  ],
+  "Burning Sensation": [
+    {
+      "Name of Medicine": "Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Samshamani Vati / Guduchighana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Godanti Bhasma",
+      "Dose and Mode of Administration": "500 mg- 1 gm  with ghee, sugar, warm milk or water",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Ushirasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Kamadudha  Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Laghu Sutashekhara Rasa",
+      "Dose and Mode of Administration": "250-500mg",
+      "Indication": "Daha"
+    },
+    {
+      "Name of Medicine": "Pinda Taila",
+      "Dose and Mode of Administration": "Used externally for Abhyanga",
+      "Indication": "Daha"
+    }
+  ],
+  "Burnt Wound": [
+    {
+      "Name of Medicine": "Jathyadi Ghrita",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Dagdha Vrana"
+    }
+  ],
+  "Cervical Lymphadenopathy": [
+    {
+      "Name of Medicine": "Kanchanara Guggulu",
+      "Dose and Mode of Administration": "500 mg-1gm, twice a day, to be taken preferably in empty stomach, with warm water or Kwath of Haritaki/Khadirsara",
+      "Indication": "Gandamala"
+    },
+    {
+      "Name of Medicine": "Nirgundi Taila",
+      "Dose and Mode of Administration": "Internal  use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran",
+      "Indication": "Gandamala"
+    }
+  ],
+  "Chest Injury": [
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Urahkshata"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Urahkshata"
+    }
+  ],
+  "Chest Pain": [
+    {
+      "Name of Medicine": "Saptavinshati Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Hritshula"
+    }
+  ],
+  "Child Malnutrition": [
+    {
+      "Name of Medicine": "Aravindasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Balakshaya"
+    }
+  ],
+  "Childhood Diseases": [
+    {
+      "Name of Medicine": "Dhanvantar Taila/Dhanvantar Taila Avarti",
+      "Dose and Mode of Administration": "10-30 drops for internal use",
+      "Indication": "Balaroga"
+    },
+    {
+      "Name of Medicine": "Balashvagandhadi Taila",
+      "Dose and Mode of Administration": "For Jwara",
+      "Indication": "Balaroga"
+    },
+    {
+      "Name of Medicine": "Aravindasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Balaroga"
+    }
+  ],
+  "Chronic Diarrhea": [
+    {
+      "Name of Medicine": "Dhanyapanchaka\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Amatisara"
+    }
+  ],
+  "Chronic Dysentery": [
+    {
+      "Name of Medicine": "Bilvadi Leha",
+      "Dose and Mode of Administration": "10 - 50 gm, in divided doses, with warm water",
+      "Indication": "Jirna Pravahika"
+    }
+  ],
+  "Chronic Fever": [
+    {
+      "Name of Medicine": "Amritarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Jirna Jvara"
+    },
+    {
+      "Name of Medicine": "Samshamani Vati / Guduchighana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Jirna Jvara"
+    },
+    {
+      "Name of Medicine": "Godanti Bhasma",
+      "Dose and Mode of Administration": "500 mg- 1 gm  with ghee, sugar, warm milk or water",
+      "Indication": "Jirnajvara"
+    },
+    {
+      "Name of Medicine": "Kamadudha  Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "JirnaJvara"
+    },
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "JirnaJvara"
+    }
+  ],
+  "Chronic Rhinitis": [
+    {
+      "Name of Medicine": "Kantakaryavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Jirna Pratishaya"
+    }
+  ],
+  "Chronic Ulcer": [
+    {
+      "Name of Medicine": "Ksharsutra",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Nadivrana"
+    },
+    {
+      "Name of Medicine": "Nirgundi Taila",
+      "Dose and Mode of Administration": "Internal  use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran",
+      "Indication": "Nadivrana"
+    }
+  ],
+  "Chronic Ulcers due to Kapha and Vata Imbalance": [
+    {
+      "Name of Medicine": "Saindhavadi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Kaphavataja Nadivrana"
+    }
+  ],
+  "Cognitive Weakness": [
+    {
+      "Name of Medicine": "Brahmi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Budhidaurbalya"
+    }
+  ],
+  "Colic Pain": [
+    {
+      "Name of Medicine": "Kumaryasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Parinamashula"
+    },
+    {
+      "Name of Medicine": "Kapardika Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Parinamashula"
+    },
+    {
+      "Name of Medicine": "Dadimadi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Parinamshula"
+    },
+    {
+      "Name of Medicine": "Shankha Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Parinamashula"
+    }
+  ],
+  "Colic Pain Due to Vata Imbalance": [
+    {
+      "Name of Medicine": "Vatavidhavansan Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Vatajashula"
+    }
+  ],
+  "Common Cold": [
+    {
+      "Name of Medicine": "Tribhuvankirti Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Pratishyaya"
+    },
+    {
+      "Name of Medicine": "Vyaghri Haritaki",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Pratishyaya"
+    },
+    {
+      "Name of Medicine": "Talishadya Churna",
+      "Dose and Mode of Administration": "2-4 gm",
+      "Indication": "Pratishyaya"
+    }
+  ],
+  "Conjunctivitis": [
+    {
+      "Name of Medicine": "Elanirkuzambu/N alikeranjana",
+      "Dose and Mode of Administration": "1-2 drops to be instilled in eyes",
+      "Indication": "Abhishyanda"
+    }
+  ],
+  "Constipation": [
+    {
+      "Name of Medicine": "Abhayarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Vibandha"
+    },
+    {
+      "Name of Medicine": "Aragvadharishta",
+      "Dose and Mode of Administration": " 12- 24 ml after meals with water, twice daily",
+      "Indication": "Vibandha"
+    },
+    {
+      "Name of Medicine": "Trivritamul Churna / Trivrita Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Malabandha"
+    },
+    {
+      "Name of Medicine": "Sukumar Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Vidvibandha"
+    },
+    {
+      "Name of Medicine": "Abhayadi Modakam",
+      "Dose and Mode of Administration": "2-4 modakam",
+      "Indication": "Malabandha"
+    },
+    {
+      "Name of Medicine": "Eranda Taila",
+      "Dose and Mode of Administration": "10-30 ml",
+      "Indication": "Vibandha"
+    },
+    {
+      "Name of Medicine": "Haritaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Vibandha"
+    }
+  ],
+  "Constipation Due to Stool Blockage": [
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Malavarodha"
+    }
+  ],
+  "Cough": [
+    {
+      "Name of Medicine": "Tribhuvankirti Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Agastya Haritaki\n/ Agastya Rasayana",
+      "Dose and Mode of Administration": "5 -   15 gm, two to three times a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Lavangadi Vati",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Shvasakuthara Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Chitraka Haritaki",
+      "Dose and Mode of Administration": "10 - 50 gm in divided doses with warm water or milk ",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Chyavanprash\nAvaleha",
+      "Dose and Mode of Administration": "12-24 gm with warm water or milk",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Dashmula Katutraya\nKvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Eladi Churna",
+      "Dose and Mode of Administration": "2 -4 gm",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Pravala Pishti",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Akika Pishti",
+      "Dose and Mode of Administration": "125 -- 250 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Kantakaryavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Kanakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Vyaghri Haritaki",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Pippali Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Vasakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Dhanvantar Gutika",
+      "Dose and Mode of Administration": "250 -500 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Talishadya Churna",
+      "Dose and Mode of Administration": "2-4 gm",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Tankana Bhasma/ Saubhagya Bhasma",
+      "Dose and Mode of Administration": "125 - 250 mg",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Vasavaleha",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Kasa"
+    },
+    {
+      "Name of Medicine": "Sitopaladi Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Kasa"
+    }
+  ],
+  "Cough and Breathlessness": [
+    {
+      "Name of Medicine": "Saptavinshati Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Kasa Shvasa"
+    }
+  ],
+  "Cyst": [
+    {
+      "Name of Medicine": "Kanchanara Guggulu",
+      "Dose and Mode of Administration": "500 mg-1gm, twice a day, to be taken preferably in empty stomach, with warm water or Kwath of Haritaki/Khadirsara",
+      "Indication": "Apachi"
+    },
+    {
+      "Name of Medicine": "Nirgundi Taila",
+      "Dose and Mode of Administration": "Internal  use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran",
+      "Indication": "Apachi"
+    }
+  ],
+  "Dandruff": [
+    {
+      "Name of Medicine": "Shadabindu Taila",
+      "Dose and Mode of Administration": "For Nasya, Kavalgraha, Abhyanga, Shiroabhyanga",
+      "Indication": "Keshashata"
+    }
+  ],
+  "Delusion": [
+    {
+      "Name of Medicine": "Arjunarishta/ Parthadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Moha"
+    }
+  ],
+  "Dental Disorders": [
+    {
+      "Name of Medicine": "Khadiradi Gutika (Mukhroga)",
+      "Dose and Mode of Administration": "1 - 2 pills",
+      "Indication": "Dantaroga"
+    },
+    {
+      "Name of Medicine": "Erimedadi Taila",
+      "Dose and Mode of Administration": "For Kavalgraha, Pratisarana, Nasya, Shirodharana",
+      "Indication": "Dantaroga"
+    }
+  ],
+  "Diabetes": [
+    {
+      "Name of Medicine": "Gokshuradi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Nisha-Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Nisha-Amalaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Madhumeha"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Arjuna Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Triphala Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Lodhrasava/Rodh\nrasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Guduchi Sattva",
+      "Dose and Mode of Administration": "500 mg- 1gm",
+      "Indication": "Prameha"
+    },
+    {
+      "Name of Medicine": "Gandhak Rasayana",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Prameha"
+    }
+  ],
+  "Diabetic Boils": [
+    {
+      "Name of Medicine": "Kaishora Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or milk ",
+      "Indication": "Pramehapidika"
+    }
+  ],
+  "Diarrhea": [
+    {
+      "Name of Medicine": "Lahsunadi Vati",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Jirakadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Panchamrita Parpati",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Jatiphaladya Churna",
+      "Dose and Mode of Administration": "1-3 gm",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Shankha Vati",
+      "Dose and Mode of Administration": "250-500 mg in divided doses",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Balachaturbhadra Churna",
+      "Dose and Mode of Administration": "250 - 500 mg",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Dadimastak Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Atisara"
+    },
+    {
+      "Name of Medicine": "Kutajaghan Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Atisara"
+    }
+  ],
+  "Difficulty in Urination": [
+    {
+      "Name of Medicine": "Shveta Parpati/Kshara Parpati",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Mutrakriccha"
+    },
+    {
+      "Name of Medicine": "Varunadi Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml  once or  two times a day",
+      "Indication": "Mutrasthila"
+    },
+    {
+      "Name of Medicine": "Chandanasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Mutrakriccha"
+    }
+  ],
+  "Digestive Disorders Due to Excess Acid": [
+    {
+      "Name of Medicine": "Shankha Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Vidagdhajirna"
+    },
+    {
+      "Name of Medicine": "Avipattikara Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Vidagdhajirna"
+    }
+  ],
+  "Digestive Weakness": [
+    {
+      "Name of Medicine": "Khadirarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Saubhagyashunthi Paka",
+      "Dose and Mode of Administration": "10-50 gm in divided doses with warm water , can be taken in single dose at bed time",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Arka  Yavani/Arka\nAjvayana",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Chitrakadi Gutika",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Pippalyadyasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Shankha Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Arka Pudina",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Dadimadi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Panchamrita Parpati",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Hingvashtaka Churna",
+      "Dose and Mode of Administration": "2- 4 gm",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Mustakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Bilvadi Leha",
+      "Dose and Mode of Administration": "10 - 50 gm, in divided doses, with warm water",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Yogaraja Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or honey",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Kapardika Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Simhanada Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Aravindasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Dhanyapanchaka\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Jirakadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Trikatu Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Balarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Abhayarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Agnimandya"
+    }
+  ],
+  "Diseases Due to Kapha and Vata Dosha Imbalance": [
+    {
+      "Name of Medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Vatakaphajaroga"
+    }
+  ],
+  "Diseases Due to Vata Dosha Imbalance": [
+    {
+      "Name of Medicine": "Prasarini Taila",
+      "Dose and Mode of Administration": "For Abhyanga over affected body part",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Indukantam\nKashayam Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Vata Roga"
+    },
+    {
+      "Name of Medicine": "Guggulutiktaka Ghrita",
+      "Dose and Mode of Administration": "5-10 gm with warm water , once or twice a day after meals",
+      "Indication": "Vata Roga"
+    },
+    {
+      "Name of Medicine": "Vatagajankusha Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Vata Roga"
+    },
+    {
+      "Name of Medicine": "Mahanarayan Taila",
+      "Dose and Mode of Administration": "For Abhyanga, Nasya, Anuvasana Vasti",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Narayana Taila",
+      "Dose and Mode of Administration": "Internal  use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+      "Dose and Mode of Administration": "Internal  use: 10 - 12 ml External use: Abhyanga and Nasya",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Dashmula Katutraya\nKvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Balarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Laghuvishagarbha Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Hingvashtaka Churna",
+      "Dose and Mode of Administration": "2- 4 gm",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Ashvagandha Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Vatroga"
+    },
+    {
+      "Name of Medicine": "Dhanvantar Taila/Dhanvantar Taila Avarti",
+      "Dose and Mode of Administration": "10-30 drops for internal use",
+      "Indication": "Vataroga"
+    },
+    {
+      "Name of Medicine": "Kottamachukkadi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Vataroga"
+    }
+  ],
+  "Diseases Due to Vata and Kapha Dosha Imbalance": [
+    {
+      "Name of Medicine": "Shvasakuthara Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Vatakaphaja Roga"
+    }
+  ],
+  "Diseases caused by Vata Dosha": [
+    {
+      "Name of Medicine": "Dashamula Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Vatavyadhi"
+    },
+    {
+      "Name of Medicine": "Bala Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Vatavyadhi"
+    },
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Vatavyadhi"
+    }
+  ],
+  "Disorders Due to Excess Pitta Dosha": [
+    {
+      "Name of Medicine": "Ushirasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pittajaroga"
+    }
+  ],
+  "Disorders of Semen": [
+    {
+      "Name of Medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+      "Dose and Mode of Administration": "Internal  use: 10 - 12 ml External use: Abhyanga and Nasya",
+      "Indication": "Sukradosha"
+    }
+  ],
+  "Disorders related to Vata Dosha": [
+    {
+      "Name of Medicine": "Dashamularishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Vata Vyadhi"
+    }
+  ],
+  "Dizziness": [
+    {
+      "Name of Medicine": "Brahmi Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Bhrama"
+    },
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Bhrama"
+    }
+  ],
+  "Dysentery": [
+    {
+      "Name of Medicine": "Bilvadi Gutika",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Vishuchika"
+    },
+    {
+      "Name of Medicine": "Lahsunadi Vati",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Visuchika"
+    },
+    {
+      "Name of Medicine": "Kutajarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pravahika"
+    },
+    {
+      "Name of Medicine": "Jatiphaladya Churna",
+      "Dose and Mode of Administration": "1-3 gm",
+      "Indication": "Pravahika"
+    },
+    {
+      "Name of Medicine": "Sanjivani Vati",
+      "Dose and Mode of Administration": "125 mg",
+      "Indication": "Visuchika"
+    },
+    {
+      "Name of Medicine": "Shankha Vati",
+      "Dose and Mode of Administration": "250-500 mg in divided doses",
+      "Indication": "Visuchika"
+    },
+    {
+      "Name of Medicine": "Mustakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Visuchika"
+    }
+  ],
+  "Ear Discharge": [
+    {
+      "Name of Medicine": "Kapardika Bhasma",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Karnasrava"
+    },
+    {
+      "Name of Medicine": "Apamargkshara Taila",
+      "Dose and Mode of Administration": "2-5 drops in each ear",
+      "Indication": "Karnanada"
+    }
+  ],
+  "Ear Infection": [
+    {
+      "Name of Medicine": "Apamargkshara Taila",
+      "Dose and Mode of Administration": "2-5 drops in each ear",
+      "Indication": "Karnagutha"
+    }
+  ],
+  "Ear Pain": [
+    {
+      "Name of Medicine": "Panchaguna Taila",
+      "Dose and Mode of Administration": "For Abhyanga, wound dressing Karnapurana or Karnabindu",
+      "Indication": "Karnashula"
+    }
+  ],
+  "Eczema": [
+    {
+      "Name of Medicine": "Marichyadi Taila",
+      "Dose and Mode of Administration": "Application on affected part",
+      "Indication": "Vicharchika"
+    }
+  ],
+  "Edema": [
+    {
+      "Name of Medicine": "Triphala Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Punarnavasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Punarnavadi Mandura",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Bilvadi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Dashamula Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Punarnava Churna",
+      "Dose and Mode of Administration": "2-3 gm",
+      "Indication": "Shotha"
+    },
+    {
+      "Name of Medicine": "Lohasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shotha"
+    }
+  ],
+  "Emaciation": [
+    {
+      "Name of Medicine": "Balachaturbhadra Churna",
+      "Dose and Mode of Administration": "250 - 500 mg",
+      "Indication": "Bala Shosha"
+    },
+    {
+      "Name of Medicine": "Ashvagandharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shosha"
+    },
+    {
+      "Name of Medicine": "Bala Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Shosha"
+    },
+    {
+      "Name of Medicine": "Brihanmasha Taila/Mahamash Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Bahushosha"
+    }
+  ],
+  "Enhancing Memory and Intelligence": [
+    {
+      "Name of Medicine": "Sarasvata Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Smriti and Buddhi Vardhaka"
+    }
+  ],
+  "Epilepsy": [
+    {
+      "Name of Medicine": "Smritisagara Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Apasmara"
+    },
+    {
+      "Name of Medicine": "Ashvagandharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Apasmara"
+    },
+    {
+      "Name of Medicine": "Sarasvatarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Apasmara"
+    },
+    {
+      "Name of Medicine": "Brahmi Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Aptantrak"
+    },
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Apsmara"
+    },
+    {
+      "Name of Medicine": "Brahmi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Apasmara"
+    }
+  ],
+  "Erysipelas": [
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Visarpa"
+    },
+    {
+      "Name of Medicine": "Triphala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Visarpa"
+    },
+    {
+      "Name of Medicine": "Dashanga Lepa",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Visarpa"
+    }
+  ],
+  "Excessive Salivation": [
+    {
+      "Name of Medicine": "Bilvadi Leha",
+      "Dose and Mode of Administration": "10 - 50 gm, in divided doses, with warm water",
+      "Indication": "Praseka"
+    }
+  ],
+  "Eye Disorders": [
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Netraroga"
+    },
+    {
+      "Name of Medicine": "Triphala Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Netraroga"
+    },
+    {
+      "Name of Medicine": "Triphala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Netraroga"
+    }
+  ],
+  "Eye Disorders Due to Excess Pitta": [
+    {
+      "Name of Medicine": "Elanirkuzambu/N alikeranjana",
+      "Dose and Mode of Administration": "1-2 drops to be instilled in eyes",
+      "Indication": "Pittaja Netraroga"
+    }
+  ],
+  "Eye Disorders Due to Pitta Imbalance": [
+    {
+      "Name of Medicine": "Ushirasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pittaja Netravyadhi"
+    }
+  ],
+  "Eye Injury": [
+    {
+      "Name of Medicine": "Elanirkuzambu/N alikeranjana",
+      "Dose and Mode of Administration": "1-2 drops to be instilled in eyes",
+      "Indication": "Netravrana"
+    }
+  ],
+  "Eye Swelling": [
+    {
+      "Name of Medicine": "Elanirkuzambu/N alikeranjana",
+      "Dose and Mode of Administration": "1-2 drops to be instilled in eyes",
+      "Indication": "Arma"
+    }
+  ],
+  "Fainting": [
+    {
+      "Name of Medicine": "Ashvagandharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Murchha"
+    },
+    {
+      "Name of Medicine": "Arjunarishta/ Parthadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Murchha"
+    }
+  ],
+  "Female Reproductive Disorders": [
+    {
+      "Name of Medicine": "Ashokarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Yoniroga"
+    },
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Yoniroga"
+    },
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Yonibhransha"
+    }
+  ],
+  "Fetal Malformation": [
+    {
+      "Name of Medicine": "Puga Khanda/ Supari Paka",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Garbhadosha"
+    }
+  ],
+  "Fever": [
+    {
+      "Name of Medicine": "Dashamula Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Vasavaleha",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Amritarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "SarvaJvara"
+    },
+    {
+      "Name of Medicine": "Talishadya Churna",
+      "Dose and Mode of Administration": "2-4 gm",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Vettumaran Gulika",
+      "Dose and Mode of Administration": "250-375 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Shadanga Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml two to three times a day",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Guduchi Sattva",
+      "Dose and Mode of Administration": "500 mg- 1gm",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Guduchyadi Kashaya\nChurna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Bilvadi Gutika",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Samshamani Vati / Guduchighana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Tribhuvankirti Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Muktashukti Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Pippali Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Arogyavardhini\nVati/Rasa",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Jvara"
+    },
+    {
+      "Name of Medicine": "Balachaturbhadra Churna",
+      "Dose and Mode of Administration": "250 - 500 mg",
+      "Indication": "Jvara"
+    }
+  ],
+  "Fever Due to Excess Pitta": [
+    {
+      "Name of Medicine": "Godanti Bhasma",
+      "Dose and Mode of Administration": "500 mg- 1 gm  with ghee, sugar, warm milk or water",
+      "Indication": "Pitta Jvara"
+    }
+  ],
+  "Fever due to Pitta Imbalance": [
+    {
+      "Name of Medicine": "Muktashukti Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Pitta Jvara"
+    }
+  ],
+  "Fever with Diarrhea": [
+    {
+      "Name of Medicine": "Kutajaghan Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Jvaratisara"
+    }
+  ],
+  "Frozen Shoulder": [
+    {
+      "Name of Medicine": "Brihanmasha Taila/Mahamash Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Avabahuka"
+    },
+    {
+      "Name of Medicine": "Vatagajankusha Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Avabahuka"
+    }
+  ],
+  "Fungal Skin Infection": [
+    {
+      "Name of Medicine": "Haridrakhanda\nPaka",
+      "Dose and Mode of Administration": "6gm with warm water or milk, twice a day",
+      "Indication": "Dadru"
+    }
+  ],
+  "Gastrointestinal Disorders": [
+    {
+      "Name of Medicine": "Kutajaghan Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Grahani"
+    },
+    {
+      "Name of Medicine": "Panchamrita Parpati",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Grahani"
+    },
+    {
+      "Name of Medicine": "Apamarga Kshar",
+      "Dose and Mode of Administration": "125-500 mg",
+      "Indication": "Grahani"
+    },
+    {
+      "Name of Medicine": "Shankha Vati",
+      "Dose and Mode of Administration": "250-500 mg in divided doses",
+      "Indication": "Grahani"
+    }
+  ],
+  "Genital Disorders": [
+    {
+      "Name of Medicine": "Shatavariguda",
+      "Dose and Mode of Administration": "6-12 gm with warm milk, twice a day",
+      "Indication": "Yonidosha"
+    }
+  ],
+  "Goiter": [
+    {
+      "Name of Medicine": "Nirgundi Taila",
+      "Dose and Mode of Administration": "Internal  use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran",
+      "Indication": "Galaganda"
+    },
+    {
+      "Name of Medicine": "Kanchanara Guggulu",
+      "Dose and Mode of Administration": "500 mg-1gm, twice a day, to be taken preferably in empty stomach, with warm water or Kwath of Haritaki/Khadirsara",
+      "Indication": "Galaganda"
+    }
+  ],
+  "Gout": [
+    {
+      "Name of Medicine": "Pinda Taila",
+      "Dose and Mode of Administration": "Used externally for Abhyanga",
+      "Indication": "Vataraktaruja"
+    },
+    {
+      "Name of Medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+      "Dose and Mode of Administration": "Internal  use: 10 - 12 ml External use: Abhyanga and Nasya",
+      "Indication": "Vatarakta"
+    },
+    {
+      "Name of Medicine": "Amritadi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Vata Rakta"
+    },
+    {
+      "Name of Medicine": "Punarnava Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Vatarakta"
+    },
+    {
+      "Name of Medicine": "Guduchi Sattva",
+      "Dose and Mode of Administration": "500 mg- 1gm",
+      "Indication": "Vatarakta"
+    },
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Vatarakta"
+    },
+    {
+      "Name of Medicine": "Pancha-valkala Kashaya Churna",
+      "Dose and Mode of Administration": "100 ml Kvatha for washing wound/ vaginal douche",
+      "Indication": "Upadansha"
+    },
+    {
+      "Name of Medicine": "Simhanada Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Vatarakta"
+    }
+  ],
+  "Gouty Arthritis": [
+    {
+      "Name of Medicine": "Kaishora Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or milk ",
+      "Indication": "Vatashonita"
+    }
+  ],
+  "Gynecological Disorders": [
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Striroga"
+    }
+  ],
+  "Hair Fall": [
+    {
+      "Name of Medicine": "Bhringaraja Tail",
+      "Dose and Mode of Administration": "For Nasya, Shiroabhyanga, Kavalgraha",
+      "Indication": "Keshapata"
+    }
+  ],
+  "Hair Loss": [
+    {
+      "Name of Medicine": "Bhringaraja Tail",
+      "Dose and Mode of Administration": "For Nasya, Shiroabhyanga, Kavalgraha",
+      "Indication": "Khalitya"
+    },
+    {
+      "Name of Medicine": "Triphala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Khalitya"
+    }
+  ],
+  "Head Tremors": [
+    {
+      "Name of Medicine": "Brihanmasha Taila/Mahamash Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Shirokampa"
+    }
+  ],
+  "Headache": [
+    {
+      "Name of Medicine": "Shirahshuladi vajra Rasa",
+      "Dose and Mode of Administration": "250-500 mg\nin single or divided dose",
+      "Indication": "Shiroroga"
+    },
+    {
+      "Name of Medicine": "Shirahshuladi vajra Rasa",
+      "Dose and Mode of Administration": "250-500 mg\nin single or divided dose",
+      "Indication": "Shirahshula"
+    },
+    {
+      "Name of Medicine": "Pippali mula Churna",
+      "Dose and Mode of Administration": "500mg -1 gm",
+      "Indication": "Shiroroga"
+    },
+    {
+      "Name of Medicine": "Akika Pishti",
+      "Dose and Mode of Administration": "125 -- 250 mg",
+      "Indication": "Shiroroga"
+    },
+    {
+      "Name of Medicine": "Godanti Bhasma",
+      "Dose and Mode of Administration": "500 mg- 1 gm  with ghee, sugar, warm milk or water",
+      "Indication": "Shirahshula"
+    },
+    {
+      "Name of Medicine": "Shadabindu Taila",
+      "Dose and Mode of Administration": "For Nasya, Kavalgraha, Abhyanga, Shiroabhyanga",
+      "Indication": "Shiroroga"
+    },
+    {
+      "Name of Medicine": "Bhringaraja Tail",
+      "Dose and Mode of Administration": "For Nasya, Shiroabhyanga, Kavalgraha",
+      "Indication": "Shiroroga"
+    },
+    {
+      "Name of Medicine": "Pathyadi Kvatha(Shadanga) Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with jaggery",
+      "Indication": "Shiroroga"
+    }
+  ],
+  "Headache Due to Pitta Imbalance": [
+    {
+      "Name of Medicine": "Laghu Sutashekhara Rasa",
+      "Dose and Mode of Administration": "250-500mg",
+      "Indication": "Pittaja Shirahshula"
+    }
+  ],
+  "Headache due to Vata Imbalance": [
+    {
+      "Name of Medicine": "Narayana Taila",
+      "Dose and Mode of Administration": "Internal  use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",
+      "Indication": "Shirogatavata"
+    }
+  ],
+  "Headache, Temple and Ear Pain": [
+    {
+      "Name of Medicine": "Pathyadi Kvatha(Shadanga) Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with jaggery",
+      "Indication": "Bhru- shankha-Karna Shula"
+    }
+  ],
+  "Hearing Loss": [
+    {
+      "Name of Medicine": "Apamargkshara Taila",
+      "Dose and Mode of Administration": "2-5 drops in each ear",
+      "Indication": "Badhirya"
+    }
+  ],
+  "Heart Disease": [
+    {
+      "Name of Medicine": "Akika Pishti",
+      "Dose and Mode of Administration": "125 -- 250 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Prabhakara Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Navayasa Lauha",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Dhanvantar Gutika",
+      "Dose and Mode of Administration": "250 -500 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Arjuna Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Arjunarishta/ Parthadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Drakshasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Mukta Pishti",
+      "Dose and Mode of Administration": "65-125 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Pravala Pishti",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Jaharamohara\nBhasma",
+      "Dose and Mode of Administration": "250- 500 mg",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Chandanasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hridroga"
+    },
+    {
+      "Name of Medicine": "Lohasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hridroga"
+    }
+  ],
+  "Heart Tonic": [
+    {
+      "Name of Medicine": "Navajivana Rasa",
+      "Dose and Mode of Administration": "625-125 mg",
+      "Indication": "Hridya"
+    }
+  ],
+  "Heart Weakness": [
+    {
+      "Name of Medicine": "Brahmi Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Hriddaurbalya"
+    }
+  ],
+  "Heartburn": [
+    {
+      "Name of Medicine": "Arjunarishta/ Parthadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hriddrava"
+    }
+  ],
+  "Hemiplegia": [
+    {
+      "Name of Medicine": "Vatagajankusha Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Pakshaghata"
+    },
+    {
+      "Name of Medicine": "Mahanarayan Taila",
+      "Dose and Mode of Administration": "For Abhyanga, Nasya, Anuvasana Vasti",
+      "Indication": "Pakshaghata"
+    }
+  ],
+  "Hemiplegic Migraine": [
+    {
+      "Name of Medicine": "Laghu Sutashekhara Rasa",
+      "Dose and Mode of Administration": "250-500mg",
+      "Indication": "Ardhavbhedaka"
+    },
+    {
+      "Name of Medicine": "Pathyadi Kvatha(Shadanga) Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with jaggery",
+      "Indication": "Ardhavbhedaka"
+    }
+  ],
+  "Hemorrhoids": [
+    {
+      "Name of Medicine": "Jaharamohara\nBhasma",
+      "Dose and Mode of Administration": "250- 500 mg",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Sarjarasa Malahara",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Kankayan Gutika",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Arsho Kuthara Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Ksharsutra",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Kasisadi Taila",
+      "Dose and Mode of Administration": "External use for Arshankura",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Abhayarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Pushyanuga Churna",
+      "Dose and Mode of Administration": "2-3 gm",
+      "Indication": "Raktarsha"
+    },
+    {
+      "Name of Medicine": "Triphala Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Arsha"
+    },
+    {
+      "Name of Medicine": "Kalyanak Guda",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Arsha"
+    }
+  ],
+  "Hepatitis": [
+    {
+      "Name of Medicine": "Lohasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Rohitakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Drakshavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice a day",
+      "Indication": "Halimaka"
+    },
+    {
+      "Name of Medicine": "Phalatrikadi Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Drakshavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice a day",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Mandur Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Guduchi Sattva",
+      "Dose and Mode of Administration": "500 mg- 1gm",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Triphala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Kamala"
+    },
+    {
+      "Name of Medicine": "Navayasa Lauha",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Kamala"
+    }
+  ],
+  "Hiccups": [
+    {
+      "Name of Medicine": "Dhanvantar Gutika",
+      "Dose and Mode of Administration": "250 -500 mg",
+      "Indication": "Hikka"
+    },
+    {
+      "Name of Medicine": "Kantakaryavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Hikka"
+    },
+    {
+      "Name of Medicine": "Agastya Haritaki\n/ Agastya Rasayana",
+      "Dose and Mode of Administration": "5 -   15 gm, two to three times a day",
+      "Indication": "Hikka"
+    }
+  ],
+  "Hip Joint Disorders": [
+    {
+      "Name of Medicine": "Trayodashanga\nGuggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Katigraha"
+    }
+  ],
+  "Hoarseness": [
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Svarbheda"
+    },
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Svarabheda"
+    },
+    {
+      "Name of Medicine": "Vyaghri Haritaki",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Svarakshaya"
+    }
+  ],
+  "Imbalance of Pitta Dosha": [
+    {
+      "Name of Medicine": "Guduchyadi Kashaya\nChurna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Pitta Dushti"
+    }
+  ],
+  "Impotency": [
+    {
+      "Name of Medicine": "Ashvagandha Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Klaivya"
+    }
+  ],
+  "Impurity in Blood": [
+    {
+      "Name of Medicine": "Bilvadi Gutika",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Garadosha"
+    }
+  ],
+  "Indigestion": [
+    {
+      "Name of Medicine": "Bilvadi Gutika",
+      "Dose and Mode of Administration": "1-2 pills",
+      "Indication": "Ajirna"
+    },
+    {
+      "Name of Medicine": "Guduchyadi Kashaya\nChurna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Agnimandhya"
+    },
+    {
+      "Name of Medicine": "Sanjivani Vati",
+      "Dose and Mode of Administration": "125 mg",
+      "Indication": "Ajirna"
+    },
+    {
+      "Name of Medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Ajirna"
+    },
+    {
+      "Name of Medicine": "Arka Pudina",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Ajirna"
+    },
+    {
+      "Name of Medicine": "Shankha Vati",
+      "Dose and Mode of Administration": "250-500 mg in divided doses",
+      "Indication": "Amajirna"
+    },
+    {
+      "Name of Medicine": "Lahsunadi Vati",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Ajirna"
+    },
+    {
+      "Name of Medicine": "Mustakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Ajirna"
+    }
+  ],
+  "Indigestion and Stomach Disorders": [
+    {
+      "Name of Medicine": "Shunthi Churna",
+      "Dose and Mode of Administration": "2- 3 gm",
+      "Indication": "Agnimandya Udararoga"
+    }
+  ],
+  "Infected Wound": [
+    {
+      "Name of Medicine": "Sarjarasa Malahara",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Dushta Vrana"
+    }
+  ],
+  "Infected Wounds": [
+    {
+      "Name of Medicine": "Panchatikta Ghrita",
+      "Dose and Mode of Administration": "5-10 gm with milk or water, once a day",
+      "Indication": "Dushtavrana"
+    },
+    {
+      "Name of Medicine": "Amritadi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Dushtavrana"
+    }
+  ],
+  "Infertility": [
+    {
+      "Name of Medicine": "Mahanarayan Taila",
+      "Dose and Mode of Administration": "For Abhyanga, Nasya, Anuvasana Vasti",
+      "Indication": "Vandhyatva"
+    },
+    {
+      "Name of Medicine": "Puga Khanda/ Supari Paka",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Vandhyaroga"
+    }
+  ],
+  "Inflammation of Wounds": [
+    {
+      "Name of Medicine": "Jatyadi Taila",
+      "Dose and Mode of Administration": "Application on wound or injury",
+      "Indication": "Vranashotha"
+    },
+    {
+      "Name of Medicine": "Pancha-valkala Kashaya Churna",
+      "Dose and Mode of Administration": "100 ml Kvatha for washing wound/ vaginal douche",
+      "Indication": "Vranashotha"
+    }
+  ],
+  "Insomnia": [
+    {
+      "Name of Medicine": "Sarpagandhaghana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Anidra"
+    }
+  ],
+  "Involuntary Movements": [
+    {
+      "Name of Medicine": "Brahmi Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Akshepa"
+    },
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Akshepa"
+    }
+  ],
+  "Irregular Fever": [
+    {
+      "Name of Medicine": "Indu kanta Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Vishama Jvara"
+    }
+  ],
+  "Irritable Bowel Syndrome": [
+    {
+      "Name of Medicine": "Vatavidhavansan Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Dadimastak Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Chitrakadi Gutika",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Pippalyadyasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Jirakadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Kshirashatpala Ghrita",
+      "Dose and Mode of Administration": "Up to 50 gm per day in divided doses with warm water",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Kutajarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Grahaniroga"
+    },
+    {
+      "Name of Medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Grahaniroga"
+    }
+  ],
+  "Itching": [
+    {
+      "Name of Medicine": "Nalpamaradi Taila",
+      "Dose and Mode of Administration": "For  Pratisarana, Abhyanga",
+      "Indication": "Kandu"
+    },
+    {
+      "Name of Medicine": "Marichyadi Taila",
+      "Dose and Mode of Administration": "Application on affected part",
+      "Indication": "Kandu"
+    },
+    {
+      "Name of Medicine": "Aragvadharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kandu"
+    }
+  ],
+  "Itching and Skin Eruptions": [
+    {
+      "Name of Medicine": "Haridrakhanda\nPaka",
+      "Dose and Mode of Administration": "6gm with warm water or milk, twice a day",
+      "Indication": "Kandu Visphota"
+    }
+  ],
+  "Jaundice": [
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Kam\nala"
+    }
+  ],
+  "Joint Disorders Due to Vata Imbalance": [
+    {
+      "Name of Medicine": "Yogaraja Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or honey",
+      "Indication": "Sandhigatavata"
+    },
+    {
+      "Name of Medicine": "Navak Guggulu",
+      "Dose and Mode of Administration": "500 mg  - 1gm, twice a day, after meals with warm water.",
+      "Indication": "Sandhigata"
+    },
+    {
+      "Name of Medicine": "Navak Guggulu",
+      "Dose and Mode of Administration": "500 mg  - 1gm, twice a day, after meals with warm water.",
+      "Indication": "Vata"
+    }
+  ],
+  "Joint Disorders due to Vata": [
+    {
+      "Name of Medicine": "Panchaguna Taila",
+      "Dose and Mode of Administration": "For Abhyanga, wound dressing Karnapurana or Karnabindu",
+      "Indication": "Sandhigatvata"
+    }
+  ],
+  "Joint Pain": [
+    {
+      "Name of Medicine": "Karpuradi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Sandhivedana"
+    },
+    {
+      "Name of Medicine": "Simhanada Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Sandhi Shula"
+    },
+    {
+      "Name of Medicine": "Lakshadi Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water ",
+      "Indication": "Asthiruja"
+    }
+  ],
+  "Joint Stiffness": [
+    {
+      "Name of Medicine": "Trayodashanga\nGuggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Sandhigraha"
+    }
+  ],
+  "Joint Swelling": [
+    {
+      "Name of Medicine": "Nirgundi Taila",
+      "Dose and Mode of Administration": "Internal  use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran",
+      "Indication": "Pama"
+    },
+    {
+      "Name of Medicine": "Nalpamaradi Taila",
+      "Dose and Mode of Administration": "For  Pratisarana, Abhyanga",
+      "Indication": "Pama"
+    }
+  ],
+  "Kidney Stones": [
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Ashmari"
+    },
+    {
+      "Name of Medicine": "Gokshura Churna",
+      "Dose and Mode of Administration": "2-5 gm",
+      "Indication": "Mutrashmari"
+    },
+    {
+      "Name of Medicine": "Gokshuradi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Ashmari"
+    },
+    {
+      "Name of Medicine": "Apamarga Kshar",
+      "Dose and Mode of Administration": "125-500 mg",
+      "Indication": "Ashmari"
+    },
+    {
+      "Name of Medicine": "Varunadi Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml  once or  two times a day",
+      "Indication": "Ashmari"
+    },
+    {
+      "Name of Medicine": "Shveta Parpati/Kshara Parpati",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Ashmari"
+    }
+  ],
+  "Leg Pain": [
+    {
+      "Name of Medicine": "Rasnasaptaka Kashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with Shunti Churna",
+      "Indication": "Janghashula"
+    }
+  ],
+  "Leprosy": [
+    {
+      "Name of Medicine": "Ksharsutra",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Charmkila"
+    }
+  ],
+  "Limping": [
+    {
+      "Name of Medicine": "Prasarini Taila",
+      "Dose and Mode of Administration": "For Abhyanga over affected body part",
+      "Indication": "Khanja"
+    },
+    {
+      "Name of Medicine": "Narayana Taila",
+      "Dose and Mode of Administration": "Internal  use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",
+      "Indication": "Pangu"
+    }
+  ],
+  "Liver Disorders": [
+    {
+      "Name of Medicine": "Pravala Pishti",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Pittaroga"
+    }
+  ],
+  "Localized Swelling": [
+    {
+      "Name of Medicine": "Dashanga Lepa",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Sthanika Shotha"
+    }
+  ],
+  "Loss of Appetite": [
+    {
+      "Name of Medicine": "Dadimastak Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Aruchi"
+    },
+    {
+      "Name of Medicine": "Bilvadi Leha",
+      "Dose and Mode of Administration": "10 - 50 gm, in divided doses, with warm water",
+      "Indication": "Aruchi"
+    },
+    {
+      "Name of Medicine": "Dhanyapanchaka\nKashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Aruchi"
+    },
+    {
+      "Name of Medicine": "Aravindasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Aruchi"
+    },
+    {
+      "Name of Medicine": "Drakshasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Aruchi"
+    }
+  ],
+  "Loss of Taste": [
+    {
+      "Name of Medicine": "Trikatu Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Arochaka"
+    }
+  ],
+  "Low Back Pain": [
+    {
+      "Name of Medicine": "Eranda Taila",
+      "Dose and Mode of Administration": "10-30 ml",
+      "Indication": "Katishula"
+    }
+  ],
+  "Lump": [
+    {
+      "Name of Medicine": "Kanchanara Guggulu",
+      "Dose and Mode of Administration": "500 mg-1gm, twice a day, to be taken preferably in empty stomach, with warm water or Kwath of Haritaki/Khadirsara",
+      "Indication": "Granthi"
+    }
+  ],
+  "Malnutrition": [
+    {
+      "Name of Medicine": "Bala Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Panchamrita Parpati",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Akika Pishti",
+      "Dose and Mode of Administration": "125 -- 250 mg",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Kushmandaka Rasayana",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice or three times a day",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Drakshavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice a day",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Ashvagandha Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+      "Dose and Mode of Administration": "Internal  use: 10 - 12 ml External use: Abhyanga and Nasya",
+      "Indication": "Karshya"
+    },
+    {
+      "Name of Medicine": "Drakshasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Ashvagandharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Karshya"
+    },
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Indukantam\nKashayam Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Balarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Karshya"
+    },
+    {
+      "Name of Medicine": "Sitopaladi Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Kshaya"
+    },
+    {
+      "Name of Medicine": "Shatavariguda",
+      "Dose and Mode of Administration": "6-12 gm with warm milk, twice a day",
+      "Indication": "Karshya"
+    }
+  ],
+  "Memory Loss": [
+    {
+      "Name of Medicine": "Sarasvatarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Smritibhransha"
+    },
+    {
+      "Name of Medicine": "Brahama Rasayana",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk",
+      "Indication": "Smritibhransha"
+    },
+    {
+      "Name of Medicine": "Brahmi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Smritikshaya"
+    }
+  ],
+  "Memory Weakness": [
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Smritidaurbalya"
+    },
+    {
+      "Name of Medicine": "Smritisagara Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Smriti Daurbalya"
+    }
+  ],
+  "Menstrual Blockage": [
+    {
+      "Name of Medicine": "Rajahpravartini Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Rajorodha"
+    }
+  ],
+  "Menstrual Disorders": [
+    {
+      "Name of Medicine": "Gokshuradi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Pradara"
+    },
+    {
+      "Name of Medicine": "Kumaryasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Rajodushti"
+    },
+    {
+      "Name of Medicine": "Puga Khanda/ Supari Paka",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Pradara"
+    },
+    {
+      "Name of Medicine": "Ashokarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Asrigdara"
+    },
+    {
+      "Name of Medicine": "Puga Khanda/ Supari Paka",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Somaroga"
+    },
+    {
+      "Name of Medicine": "Shatavariguda",
+      "Dose and Mode of Administration": "6-12 gm with warm milk, twice a day",
+      "Indication": "Rajodosha"
+    },
+    {
+      "Name of Medicine": "Lodhrasava/Rodh\nrasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pradara"
+    },
+    {
+      "Name of Medicine": "Kamadudha  Rasa",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Pradara"
+    },
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Pradara"
+    },
+    {
+      "Name of Medicine": "Shatavariguda",
+      "Dose and Mode of Administration": "6-12 gm with warm milk, twice a day",
+      "Indication": "Asrigdara"
+    },
+    {
+      "Name of Medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+      "Dose and Mode of Administration": "Internal  use: 10 - 12 ml External use: Abhyanga and Nasya",
+      "Indication": "Rajodosha"
+    }
+  ],
+  "Mental Anxiety": [
+    {
+      "Name of Medicine": "Sarpagandhaghana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Manodvega"
+    }
+  ],
+  "Mental Disorders": [
+    {
+      "Name of Medicine": "Mukta Pishti",
+      "Dose and Mode of Administration": "65-125 mg",
+      "Indication": "Manodosha"
+    },
+    {
+      "Name of Medicine": "Ashvagandharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Unmada"
+    },
+    {
+      "Name of Medicine": "Sarasvatarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Manasa Dosha"
+    },
+    {
+      "Name of Medicine": "Mukta Pishti",
+      "Dose and Mode of Administration": "65-125 mg",
+      "Indication": "Unmada"
+    },
+    {
+      "Name of Medicine": "Brahmi Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Manoroga"
+    },
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Unmada"
+    },
+    {
+      "Name of Medicine": "Brahmi Ghrita",
+      "Dose and Mode of Administration": "10 - 15 gm with warm water or milk , empty stomach",
+      "Indication": "Unmada"
+    }
+  ],
+  "Mental Weakness": [
+    {
+      "Name of Medicine": "Brahama Rasayana",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk",
+      "Indication": "Manodaurbalya"
+    },
+    {
+      "Name of Medicine": "Pravala Pishti",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Manodaurbalya"
+    }
+  ],
+  "Mouth Disorders": [
+    {
+      "Name of Medicine": "Dashanasanskara Churna",
+      "Dose and Mode of Administration": "Use as tooth powder",
+      "Indication": "Mukha Roga"
+    },
+    {
+      "Name of Medicine": "Erimedadi Taila",
+      "Dose and Mode of Administration": "For Kavalgraha, Pratisarana, Nasya, Shirodharana",
+      "Indication": "Mukha Roga"
+    }
+  ],
+  "Nerve Injuries": [
+    {
+      "Name of Medicine": "Triphala Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Nadi Vrana"
+    }
+  ],
+  "Nervous System Disorders": [
+    {
+      "Name of Medicine": "Eranda Taila",
+      "Dose and Mode of Administration": "10-30 ml",
+      "Indication": "Vatavikara"
+    }
+  ],
+  "Neurological Disorders causing Limping": [
+    {
+      "Name of Medicine": "Prasarini Taila",
+      "Dose and Mode of Administration": "For Abhyanga over affected body part",
+      "Indication": "Panguvata"
+    }
+  ],
+  "Numbness": [
+    {
+      "Name of Medicine": "Apamarga Kshar",
+      "Dose and Mode of Administration": "125-500 mg",
+      "Indication": "Sharkara"
+    }
+  ],
+  "Obesity": [
+    {
+      "Name of Medicine": "Vidanga Churna",
+      "Dose and Mode of Administration": "5-10  gm",
+      "Indication": "Medoroga"
+    },
+    {
+      "Name of Medicine": "Navak Guggulu",
+      "Dose and Mode of Administration": "500 mg  - 1gm, twice a day, after meals with warm water.",
+      "Indication": "Sthaulya"
+    },
+    {
+      "Name of Medicine": "Arogyavardhini\nVati/Rasa",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Medoroga"
+    }
+  ],
+  "Oral Disorders": [
+    {
+      "Name of Medicine": "Dashanasanskara Churna",
+      "Dose and Mode of Administration": "Use as tooth powder",
+      "Indication": "Danta Roga"
+    }
+  ],
+  "Oral Ulcers": [
+    {
+      "Name of Medicine": "Khadiradi Gutika (Mukhroga)",
+      "Dose and Mode of Administration": "1 - 2 pills",
+      "Indication": "Mukhapaka"
+    }
+  ],
+  "Pain Relieving": [
+    {
+      "Name of Medicine": "Navajivana Rasa",
+      "Dose and Mode of Administration": "625-125 mg",
+      "Indication": "Shulahara"
+    }
+  ],
+  "Pain in the Bladder": [
+    {
+      "Name of Medicine": "Punarnava Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Vastigatashula"
+    }
+  ],
+  "Painful Menstruation": [
+    {
+      "Name of Medicine": "Rajahpravartini Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Kastartava"
+    },
+    {
+      "Name of Medicine": "Kumaryasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Krichhrartav"
+    }
+  ],
+  "Painful Urination": [
+    {
+      "Name of Medicine": "Yavakshar",
+      "Dose and Mode of Administration": "500 mg - 1 gm",
+      "Indication": "Mutrakricchra"
+    },
+    {
+      "Name of Medicine": "Gokshuradi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Mutrakricchra"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Mutrakricchra"
+    },
+    {
+      "Name of Medicine": "Trinapanchamula\nKvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml two to three times a day",
+      "Indication": "Mutrakricchra"
+    }
+  ],
+  "Palpitations": [
+    {
+      "Name of Medicine": "Akika Pishti",
+      "Dose and Mode of Administration": "125 -- 250 mg",
+      "Indication": "Hriddaha"
+    }
+  ],
+  "Paralysis": [
+    {
+      "Name of Medicine": "Dhanvantar Taila/Dhanvantar Taila Avarti",
+      "Dose and Mode of Administration": "10-30 drops for internal use",
+      "Indication": "Pakshavadha"
+    }
+  ],
+  "Paralysis of Facial Muscles": [
+    {
+      "Name of Medicine": "Brihanmasha Taila/Mahamash Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Ardita"
+    },
+    {
+      "Name of Medicine": "Mahanarayan Taila",
+      "Dose and Mode of Administration": "For Abhyanga, Nasya, Anuvasana Vasti",
+      "Indication": "Ardita"
+    }
+  ],
+  "Perianal Abscess": [
+    {
+      "Name of Medicine": "Sarjarasa Malahara",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Vidarika"
+    }
+  ],
+  "Piles and Hemorrhoids during Pregnancy": [
+    {
+      "Name of Medicine": "Lohasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Arsha Garbhasayaroga"
+    }
+  ],
+  "Pilonidal Cyst": [
+    {
+      "Name of Medicine": "Sarjarasa Malahara",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Gudapaka"
+    }
+  ],
+  "Poisoning": [
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Visavikara"
+    }
+  ],
+  "Possession": [
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Balagraha"
+    }
+  ],
+  "Post-Delivery Disorders": [
+    {
+      "Name of Medicine": "Dashamularishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Prasavottara roga"
+    }
+  ],
+  "Post-Delivery Symptoms": [
+    {
+      "Name of Medicine": "Saubhagyashunthi Paka",
+      "Dose and Mode of Administration": "10-50 gm in divided doses with warm water , can be taken in single dose at bed time",
+      "Indication": "Prasavottara Lakshana"
+    }
+  ],
+  "Postnatal Diseases": [
+    {
+      "Name of Medicine": "Jirakadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Sutikaroga"
+    },
+    {
+      "Name of Medicine": "Saubhagyashunthi Paka",
+      "Dose and Mode of Administration": "10-50 gm in divided doses with warm water , can be taken in single dose at bed time",
+      "Indication": "Sutikaroga"
+    },
+    {
+      "Name of Medicine": "Dhanvantar Taila/Dhanvantar Taila Avarti",
+      "Dose and Mode of Administration": "10-30 drops for internal use",
+      "Indication": "Sutikaroga"
+    }
+  ],
+  "Postnatal Vata Imbalance": [
+    {
+      "Name of Medicine": "Vatavidhavansan Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Sutika Vata"
+    }
+  ],
+  "Postpartum Complications": [
+    {
+      "Name of Medicine": "Dashamula Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Sutikadosha"
+    }
+  ],
+  "Premature Graying of Hair": [
+    {
+      "Name of Medicine": "Anutaila",
+      "Dose and Mode of Administration": "2-10 drops for  nasal administration",
+      "Indication": "Palitya"
+    }
+  ],
+  "Psychosis": [
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Bhutonmada"
+    }
+  ],
+  "Rejuvenation": [
+    {
+      "Name of Medicine": "Chyavanprash\nAvaleha",
+      "Dose and Mode of Administration": "12-24 gm with warm water or milk",
+      "Indication": "Rasayana"
+    },
+    {
+      "Name of Medicine": "Agastya Haritaki\n/ Agastya Rasayana",
+      "Dose and Mode of Administration": "5 -   15 gm, two to three times a day",
+      "Indication": "Rasayana"
+    },
+    {
+      "Name of Medicine": "Gokshura Churna",
+      "Dose and Mode of Administration": "2-5 gm",
+      "Indication": "Rasayana"
+    },
+    {
+      "Name of Medicine": "Pippali Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Rasayana"
+    },
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Rasayana"
+    }
+  ],
+  "Rheumatoid Arthritis": [
+    {
+      "Name of Medicine": "Shunthi Churna",
+      "Dose and Mode of Administration": "2- 3 gm",
+      "Indication": "Amavata"
+    },
+    {
+      "Name of Medicine": "Kottamachukkadi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Amavata"
+    },
+    {
+      "Name of Medicine": "Ajamodadi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Amvata"
+    },
+    {
+      "Name of Medicine": "Yogaraja Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or honey",
+      "Indication": "Amavata"
+    },
+    {
+      "Name of Medicine": "Punarnava Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Amavata"
+    },
+    {
+      "Name of Medicine": "Simhanada Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Amavata"
+    },
+    {
+      "Name of Medicine": "Rasna Guggulu",
+      "Dose and Mode of Administration": "500 mg  - 1gm, twice a day, after meals with warm water.",
+      "Indication": "Amavata"
+    }
+  ],
+  "Rib Pain": [
+    {
+      "Name of Medicine": "Rasnasaptaka Kashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with Shunti Churna",
+      "Indication": "Prishashula"
+    },
+    {
+      "Name of Medicine": "Dashmula Katutraya\nKvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml once or twice a day",
+      "Indication": "Parshva\nshula"
+    }
+  ],
+  "Sciatica": [
+    {
+      "Name of Medicine": "Ajamodadi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Vatagajankusha Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Trayodashanga\nGuggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Rasna Guggulu",
+      "Dose and Mode of Administration": "500 mg  - 1gm, twice a day, after meals with warm water.",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Punarnava Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Eranda Taila",
+      "Dose and Mode of Administration": "10-30 ml",
+      "Indication": "Gridhrasi"
+    },
+    {
+      "Name of Medicine": "Prasarini Taila",
+      "Dose and Mode of Administration": "For Abhyanga over affected body part",
+      "Indication": "Gridhrasi"
+    }
+  ],
+  "Seminal Disorders": [
+    {
+      "Name of Medicine": "Chandanasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shukrameha"
+    }
+  ],
+  "Serious Skin Disorders": [
+    {
+      "Name of Medicine": "Panchanimba Churna",
+      "Dose and Mode of Administration": "3- 5 gm",
+      "Indication": "Mahakushtha"
+    }
+  ],
+  "Severe Skin Disorders": [
+    {
+      "Name of Medicine": "Gandharvahasta Taila",
+      "Dose and Mode of Administration": "6-12 ml",
+      "Indication": "Mahavataroga"
+    }
+  ],
+  "Side Stomach Pain": [
+    {
+      "Name of Medicine": "Saptavinshati Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water",
+      "Indication": "Parshvashula"
+    },
+    {
+      "Name of Medicine": "Vasavaleha",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Parshvashula"
+    },
+    {
+      "Name of Medicine": "Rasnasaptaka Kashaya Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with Shunti Churna",
+      "Indication": "Parshvashula"
+    },
+    {
+      "Name of Medicine": "Kantakaryavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Parshvashula"
+    }
+  ],
+  "Sinusitis": [
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Pinasa"
+    },
+    {
+      "Name of Medicine": "Vyaghri Haritaki",
+      "Dose and Mode of Administration": "6-12 gm to be licked with warm water or milk twice or thrice a day",
+      "Indication": "Pinasa"
+    },
+    {
+      "Name of Medicine": "Chitraka Haritaki",
+      "Dose and Mode of Administration": "10 - 50 gm in divided doses with warm water or milk ",
+      "Indication": "Pinasa"
+    }
+  ],
+  "Skin Diseases": [
+    {
+      "Name of Medicine": "Kaishora Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or milk ",
+      "Indication": "Kustha"
+    },
+    {
+      "Name of Medicine": "Khadirarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Tvak Roga"
+    },
+    {
+      "Name of Medicine": "Nalpamaradi Taila",
+      "Dose and Mode of Administration": "For  Pratisarana, Abhyanga",
+      "Indication": "Tvakroga"
+    },
+    {
+      "Name of Medicine": "Tiktaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Tvakroga"
+    }
+  ],
+  "Skin Disorders": [
+    {
+      "Name of Medicine": "Arogyavardhini\nVati/Rasa",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Kushta"
+    },
+    {
+      "Name of Medicine": "Gandhak Rasayana",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Kushta"
+    },
+    {
+      "Name of Medicine": "Aragvadharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Tvak Vikara"
+    },
+    {
+      "Name of Medicine": "Khadirarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kushtha"
+    },
+    {
+      "Name of Medicine": "Amritadi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Charma Vikara"
+    },
+    {
+      "Name of Medicine": "Dashanga Lepa",
+      "Dose and Mode of Administration": "To apply on affected\npart",
+      "Indication": "Kushtha"
+    },
+    {
+      "Name of Medicine": "Guduchi Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Kushtha"
+    },
+    {
+      "Name of Medicine": "Somaraji Taila/Bakuchi Taila",
+      "Dose and Mode of Administration": "For local application on affected body part",
+      "Indication": "Kushtha"
+    },
+    {
+      "Name of Medicine": "Panchanimba Churna",
+      "Dose and Mode of Administration": "3- 5 gm",
+      "Indication": "Kshudrakushtha"
+    },
+    {
+      "Name of Medicine": "Nalpamaradi Taila",
+      "Dose and Mode of Administration": "For  Pratisarana, Abhyanga",
+      "Indication": "Kushta"
+    },
+    {
+      "Name of Medicine": "Panchatikta Ghrita",
+      "Dose and Mode of Administration": "5-10 gm with milk or water, once a day",
+      "Indication": "Tvak Vikara"
+    }
+  ],
+  "Slow Digestion": [
+    {
+      "Name of Medicine": "Sanjivani Vati",
+      "Dose and Mode of Administration": "125 mg",
+      "Indication": "Mandagni"
+    },
+    {
+      "Name of Medicine": "Arka Shatpushpa/\nMishr eyarka",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Mandagni"
+    }
+  ],
+  "Snake Bite": [
+    {
+      "Name of Medicine": "Sanjivani Vati",
+      "Dose and Mode of Administration": "125 mg",
+      "Indication": "Sarpadamsha"
+    }
+  ],
+  "Solar Plexus Pain": [
+    {
+      "Name of Medicine": "Laghu Sutashekhara Rasa",
+      "Dose and Mode of Administration": "250-500mg",
+      "Indication": "Suryavarta"
+    },
+    {
+      "Name of Medicine": "Pathyadi Kvatha(Shadanga) Churna",
+      "Dose and Mode of Administration": "25-50 ml of kvatha, once or twice a day with jaggery",
+      "Indication": "Suryavarta"
+    }
+  ],
+  "Spleen Disorders": [
+    {
+      "Name of Medicine": "Kshirashatpala Ghrita",
+      "Dose and Mode of Administration": "Up to 50 gm per day in divided doses with warm water",
+      "Indication": "Pliha"
+    },
+    {
+      "Name of Medicine": "Sukumar Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Pliharoga"
+    },
+    {
+      "Name of Medicine": "Punarnavadi Mandura",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Pliharoga"
+    },
+    {
+      "Name of Medicine": "Rohitakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pliha"
+    }
+  ],
+  "Spleen and Liver Disorders": [
+    {
+      "Name of Medicine": "Punarnavasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Pliha- Yakridroga"
+    }
+  ],
+  "Stiff Jaw": [
+    {
+      "Name of Medicine": "Narayana Taila",
+      "Dose and Mode of Administration": "Internal  use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",
+      "Indication": "Hanustambha"
+    }
+  ],
+  "Stiff Neck": [
+    {
+      "Name of Medicine": "Narayana Taila",
+      "Dose and Mode of Administration": "Internal  use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",
+      "Indication": "Manyastambha"
+    }
+  ],
+  "Stomach Disorders": [
+    {
+      "Name of Medicine": "Rohitakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Sukumar Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Pippalyadyasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Kalyanak Guda",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Abhayarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Pippali mula Churna",
+      "Dose and Mode of Administration": "500mg -1 gm",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Haritaki Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Udararoga"
+    },
+    {
+      "Name of Medicine": "Trivritamul Churna / Trivrita Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Udararoga"
+    }
+  ],
+  "Stomach Pain": [
+    {
+      "Name of Medicine": "Arka Pudina",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Udarashula"
+    },
+    {
+      "Name of Medicine": "Muktashukti Bhasma",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Udarashula"
+    }
+  ],
+  "Strength-Giving": [
+    {
+      "Name of Medicine": "Navajivana Rasa",
+      "Dose and Mode of Administration": "625-125 mg",
+      "Indication": "Balya"
+    }
+  ],
+  "Stroke": [
+    {
+      "Name of Medicine": "Laghuvishagarbha Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Pakshaghat"
+    }
+  ],
+  "Thigh Stiffness": [
+    {
+      "Name of Medicine": "Vatagajankusha Rasa",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Urustambha"
+    }
+  ],
+  "Thirst": [
+    {
+      "Name of Medicine": "Ushirasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Trisha"
+    },
+    {
+      "Name of Medicine": "Shadanga Kvatha Churna",
+      "Dose and Mode of Administration": "25-50 ml two to three times a day",
+      "Indication": "Trishna"
+    }
+  ],
+  "Throat Disorders": [
+    {
+      "Name of Medicine": "Anutaila",
+      "Dose and Mode of Administration": "2-10 drops for  nasal administration",
+      "Indication": "Urdhvajatrugataroga"
+    }
+  ],
+  "Tissue Wasting": [
+    {
+      "Name of Medicine": "Dhanvantar Taila/Dhanvantar Taila Avarti",
+      "Dose and Mode of Administration": "10-30 drops for internal use",
+      "Indication": "Dhatukshaya"
+    }
+  ],
+  "Tonsillitis": [
+    {
+      "Name of Medicine": "Khadiradi Gutika (Mukhroga)",
+      "Dose and Mode of Administration": "1 - 2 pills",
+      "Indication": "Galaroga"
+    }
+  ],
+  "Toxin Ingestion": [
+    {
+      "Name of Medicine": "Kalyanaka Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm water or milk , once a day , preferably empty stomach",
+      "Indication": "Garavisha"
+    }
+  ],
+  "Toxin in Blood": [
+    {
+      "Name of Medicine": "Chitrakadi Gutika",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Amadosha"
+    }
+  ],
+  "Toxins": [
+    {
+      "Name of Medicine": "Trikatu Churna",
+      "Dose and Mode of Administration": "1-2 gm",
+      "Indication": "Ama"
+    }
+  ],
+  "Tremors": [
+    {
+      "Name of Medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+      "Dose and Mode of Administration": "Internal  use: 6-12 ml External use for Abhyanga",
+      "Indication": "Kampa"
+    }
+  ],
+  "Tuberculosis": [
+    {
+      "Name of Medicine": "Dhanvantar Gutika",
+      "Dose and Mode of Administration": "250 -500 mg",
+      "Indication": "Yakshma"
+    },
+    {
+      "Name of Medicine": "Kanakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Rajayakshma"
+    },
+    {
+      "Name of Medicine": "Laghumalini Vasanta Rasa",
+      "Dose and Mode of Administration": "125- 250 mg",
+      "Indication": "Yakshma"
+    }
+  ],
+  "Tumors": [
+    {
+      "Name of Medicine": "Kanchanara Guggulu",
+      "Dose and Mode of Administration": "500 mg-1gm, twice a day, to be taken preferably in empty stomach, with warm water or Kwath of Haritaki/Khadirsara",
+      "Indication": "Arbuda"
+    },
+    {
+      "Name of Medicine": "Lodhrasava/Rodh\nrasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Arbuda"
+    }
+  ],
+  "Typhoid Fever": [
+    {
+      "Name of Medicine": "Samshamani Vati / Guduchighana Vati",
+      "Dose and Mode of Administration": "250-500 mg",
+      "Indication": "Vishma Jvara"
+    }
+  ],
+  "Upper Gastrointestinal Bleeding": [
+    {
+      "Name of Medicine": "Sitopaladi Churna",
+      "Dose and Mode of Administration": "2-3gm",
+      "Indication": "Urdhvaga Raktapitta"
+    },
+    {
+      "Name of Medicine": "Laghu Sutashekhara Rasa",
+      "Dose and Mode of Administration": "250-500mg",
+      "Indication": "Urdhvaga raktapitta"
+    }
+  ],
+  "Upward Movement of Vata": [
+    {
+      "Name of Medicine": "Gandharvahasta Taila",
+      "Dose and Mode of Administration": "6-12 ml",
+      "Indication": "Udavarta"
+    }
+  ],
+  "Urinary Disorders": [
+    {
+      "Name of Medicine": "Punarnavasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Mutraroga"
+    }
+  ],
+  "Urinary Obstruction": [
+    {
+      "Name of Medicine": "Vettumaran Gulika",
+      "Dose and Mode of Administration": "250-375 mg",
+      "Indication": "Mutraghata"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Mutraghata"
+    },
+    {
+      "Name of Medicine": "Gokshura Churna",
+      "Dose and Mode of Administration": "2-5 gm",
+      "Indication": "Mutraghata"
+    },
+    {
+      "Name of Medicine": "Gokshuradi Guggulu",
+      "Dose and Mode of Administration": "500 mg - 1gm twice a day, after meals , with warm water",
+      "Indication": "Mutraghata"
+    },
+    {
+      "Name of Medicine": "Shveta Parpati/Kshara Parpati",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Mutraghata"
+    },
+    {
+      "Name of Medicine": "Shatavaryadi Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Mutraghata"
+    }
+  ],
+  "Urticaria": [
+    {
+      "Name of Medicine": "Haridrakhanda\nPaka",
+      "Dose and Mode of Administration": "6gm with warm water or milk, twice a day",
+      "Indication": "Shitapitta"
+    },
+    {
+      "Name of Medicine": "Haridrakhanda\nPaka",
+      "Dose and Mode of Administration": "6gm with warm water or milk, twice a day",
+      "Indication": "Udarda"
+    }
+  ],
+  "Vaginal Disorders": [
+    {
+      "Name of Medicine": "Phala Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day",
+      "Indication": "Yonivyapat"
+    }
+  ],
+  "Vaginal Pain": [
+    {
+      "Name of Medicine": "Sukumar Ghrita",
+      "Dose and Mode of Administration": "10-15 gm with warm milk or water one or twice a day after meals",
+      "Indication": "Yonishula"
+    },
+    {
+      "Name of Medicine": "Arka Shatpushpa/\nMishr eyarka",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Yonishula"
+    }
+  ],
+  "Visual Impairment": [
+    {
+      "Name of Medicine": "Saptamrita Lauha",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Drishtimandya"
+    }
+  ],
+  "Visual Weakness": [
+    {
+      "Name of Medicine": "Shadabindu Taila",
+      "Dose and Mode of Administration": "For Nasya, Kavalgraha, Abhyanga, Shiroabhyanga",
+      "Indication": "Drishtidaurbalya"
+    }
+  ],
+  "Vitiligo": [
+    {
+      "Name of Medicine": "Somaraji Taila/Bakuchi Taila",
+      "Dose and Mode of Administration": "For local application on affected body part",
+      "Indication": "Shvitra"
+    },
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Shvitra"
+    }
+  ],
+  "Vomiting": [
+    {
+      "Name of Medicine": "Bilvadi Leha",
+      "Dose and Mode of Administration": "10 - 50 gm, in divided doses, with warm water",
+      "Indication": "Chhardi"
+    },
+    {
+      "Name of Medicine": "Eladi Gutika",
+      "Dose and Mode of Administration": "500 mg -1 gm",
+      "Indication": "Chhardi"
+    },
+    {
+      "Name of Medicine": "Arka Pudina",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Chhardi"
+    },
+    {
+      "Name of Medicine": "Vettumaran Gulika",
+      "Dose and Mode of Administration": "250-375 mg",
+      "Indication": "Chhardi"
+    }
+  ],
+  "Wasting Syndrome": [
+    {
+      "Name of Medicine": "Kanakasava",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Kshatakshina"
+    }
+  ],
+  "Weak Heart": [
+    {
+      "Name of Medicine": "Arjunarishta/ Parthadyarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Hrid- daurbalya"
+    }
+  ],
+  "Weak Immunity": [
+    {
+      "Name of Medicine": "Pravala Pishti",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Ojakshya"
+    }
+  ],
+  "Weakness": [
+    {
+      "Name of Medicine": "Balarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Ashvagandha Churna",
+      "Dose and Mode of Administration": "3-6 gm",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Prabhakara Vati",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Dashamularishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Karpuradi Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Khalli"
+    },
+    {
+      "Name of Medicine": "Draksharishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Puga Khanda/ Supari Paka",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, twice a day",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Chandraprabha Vati",
+      "Dose and Mode of Administration": "250 mg",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Mustakarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Daurbalya"
+    },
+    {
+      "Name of Medicine": "Drakshavaleha",
+      "Dose and Mode of Administration": "6-12 gm with warm water or milk, once or twice a day",
+      "Indication": "Daurbalya"
+    }
+  ],
+  "White Discharge (Leukorrhea)": [
+    {
+      "Name of Medicine": "Pushyanuga Churna",
+      "Dose and Mode of Administration": "2-3 gm",
+      "Indication": "Shwetapradara"
+    }
+  ],
+  "White Vaginal Discharge": [
+    {
+      "Name of Medicine": "Ashokarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Shveta Pradara"
+    },
+    {
+      "Name of Medicine": "Pancha-valkala Kashaya Churna",
+      "Dose and Mode of Administration": "100 ml Kvatha for washing wound/ vaginal douche",
+      "Indication": "Shveta Pradara"
+    }
+  ],
+  "Worm Infestation": [
+    {
+      "Name of Medicine": "Arka Shatpushpa/\nMishr eyarka",
+      "Dose and Mode of Administration": "10 - 25 ml, two to three times a day",
+      "Indication": "Krimi"
+    },
+    {
+      "Name of Medicine": "Kankayan Gutika",
+      "Dose and Mode of Administration": "500 mg- 1 gm",
+      "Indication": "Krimi"
+    },
+    {
+      "Name of Medicine": "Vidanga Churna",
+      "Dose and Mode of Administration": "5-10  gm",
+      "Indication": "Krimiroga"
+    },
+    {
+      "Name of Medicine": "Khadirarishta",
+      "Dose and Mode of Administration": "12 - 24 ml after meals with water, twice daily",
+      "Indication": "Krimi"
+    }
+  ],
+  "Wound": [
+    {
+      "Name of Medicine": "Panchaguna Taila",
+      "Dose and Mode of Administration": "For Abhyanga, wound dressing Karnapurana or Karnabindu",
+      "Indication": "Vrana"
+    },
+    {
+      "Name of Medicine": "Jatyadi Taila",
+      "Dose and Mode of Administration": "Application on wound or injury",
+      "Indication": "Vrana"
+    },
+    {
+      "Name of Medicine": "Kaishora Guggulu",
+      "Dose and Mode of Administration": "Up to 3 gm in divided doses with warm water or milk ",
+      "Indication": "Vrana"
+    },
+    {
+      "Name of Medicine": "Jathyadi Ghrita",
+      "Dose and Mode of Administration": "To be applied on affected part",
+      "Indication": "Vrana"
+    }
+  ],
+  "Wound Due to Kapha Imbalance": [
+    {
+      "Name of Medicine": "Sphatika Bhasma",
+      "Dose and Mode of Administration": "125-250 mg",
+      "Indication": "Kaphaja Vrana"
+    }
+  ],
+  "Wound Healing": [
+    {
+      "Name of Medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+      "Dose and Mode of Administration": "Up to 12 gm",
+      "Indication": "Vranaropana"
+    }
+  ],
+  "Wounds": [
+    {
+      "Name of Medicine": "Bala Taila",
+      "Dose and Mode of Administration": "For Abhyanga",
+      "Indication": "Kshata"
+    }
+  ]
+}
