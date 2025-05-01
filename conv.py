@@ -96,7 +96,7 @@ for idx, plant in enumerate(plants_data):
     metadatas.append(plant)
 
 # Initialize Chroma Client
-client = chromadb.PersistentClient(path="./chroma_db")
+client = chromadb.PersistentClient(path="./chromadb")
 
 # Create or Get collection
 collection = client.get_or_create_collection(name="plants_collection")
