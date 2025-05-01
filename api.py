@@ -17,7 +17,8 @@ app.add_middleware(
 )
 
 # Mount /images directory
-app.mount("/images", StaticFiles(directory="images"), name="images")
+app.mount("/images/", StaticFiles(directory="images"), name="images")
+
 
 # Load embedding model
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -88,7 +89,11 @@ async def search_get(query: str = Query(...)):
 @app.get("/plant_names")
 def get_plant_names():
     # Use peek to get sample metadata (e.g., top 100)
-    result = collection.peek(n=100)  # Returns dict with 'metadatas'
+    result = collection.query(
+    query_texts=["*"],  # wildcard
+    n_results=1000
+)
+ # Returns dict with 'metadatas'
     
     if "metadatas" not in result:
         return []
