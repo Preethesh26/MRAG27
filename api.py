@@ -86,5 +86,13 @@ async def search_get(query: str = Query(...)):
 
 
 @app.get("/plant_names")
-async def get_plant_names():
-    return list({plant["Plant Name"] for plant in collection.get()["metadatas"]})
+def get_plant_names():
+    # Use peek to get sample metadata (e.g., top 100)
+    result = collection.peek(n=100)  # Returns dict with 'metadatas'
+    
+    if "metadatas" not in result:
+        return []
+
+    # Extract unique plant names
+    names = list({meta["Plant Name"] for meta in result["metadatas"] if "Plant Name" in meta})
+    return names
