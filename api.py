@@ -83,3 +83,8 @@ async def search_get(query: str = Query(...)):
 @app.get("/ask")
 async def search_get(query: str = Query(...)):
     return {"results": search_in_chroma(query)}
+
+
+@app.get("/plant_names")
+async def get_plant_names():
+    return list({plant["Plant Name"] for plant in collection.get()["metadatas"]})
