@@ -32,12 +32,12 @@ class QueryRequest(BaseModel):
     query: str
 BASE_IMAGE_URL = "https://mrag27.onrender.com/images/"
 
-def search_in_chroma(query: str):
+def search_in_chroma(query: str, top_k: int = 1):
     query_embedding = model.encode([query]).tolist()
 
     results = collection.query(
         query_embeddings=query_embedding,
-        n_results=1
+        n_results=top_k
     )
 
     documents = results['documents'][0]
@@ -54,20 +54,21 @@ def search_in_chroma(query: str):
             full_image_url = None
 
         plant = {
-            "Plant Name": meta["Plant Name"],
-            "Scientific Name": meta["Scientific Name"],
-            "Healing Properties": meta["Healing Properties"],
-            "Uses": meta["Uses"],
-            "Description": meta["Description"],
-            "Preparation Method": meta["Preparation Method"],
-            "Side Effects": meta["Side Effects"],
-            "Geographic Availability": meta["Geographic Availability"],
+            "Plant Name": meta.get("Plant Name", ""),
+            "Scientific Name": meta.get("Scientific Name", ""),
+            "Healing Properties": meta.get("Healing Properties", ""),
+            "Uses": meta.get("Uses", ""),
+            "Description": meta.get("Description", ""),
+            "Preparation Method": meta.get("Preparation Method", ""),
+            "Side Effects": meta.get("Side Effects", ""),
+            "Geographic Availability": meta.get("Geographic Availability", ""),
             "Image": full_image_url,
             "Image Missing": not bool(image_filename)
         }
         search_results.append(plant)
 
     return search_results
+
 
 # --- POST method
 @app.post("/search/")
@@ -80,10 +81,10 @@ async def search_get(query: str = Query(...)):
     return {"results": search_in_chroma(query)}
 
 
-
 @app.get("/ask")
-async def search_get(query: str = Query(...)):
-    return {"results": search_in_chroma(query)}
+async def ask_get(query: str = Query(...)):
+    return {"results": search_in_chroma(query, top_k=3)}
+
 
 
 @app.get("/plant_names")
